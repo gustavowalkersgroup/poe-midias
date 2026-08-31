@@ -1016,5 +1016,6 @@
       "quantidade": 1,
       "aviso": "Não consta no Mapa de Ativos oficial (24 itens). Enviado fora de campanha soa deslocado."
     }
-  ]
+  ],
+  "base_url_fallback_aviso": "NAO use raw.githubusercontent para video: o GitHub serve .mp4 como application/octet-stream e o WhatsApp rejeita. Somente jsDelivr (base_url) serve video/mp4 correto. Verificado em 2026-08-31."
 }
