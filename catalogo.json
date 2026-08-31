@@ -1,5 +1,5 @@
 {
-  "versao": "1.0.0",
+  "versao": "1.1.0",
   "atualizado_em": "2026-08-31",
   "cliente": "PÓE — Escalada da Costura",
   "base_url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/",
@@ -247,7 +247,7 @@
       ],
       "objecoes": [
         "nunca_costurei",
-        "nunca_termino_cursos"
+        "nunca_termina"
       ],
       "quando_usar": "Prova Social (6.1). Reaproveitado em objeções de capacidade.",
       "tags": [
@@ -282,8 +282,8 @@
         "organica"
       ],
       "objecoes": [
-        "ja_fiz_outros_cursos",
-        "tenho_medo",
+        "ja_fez_outros_cursos",
+        "medo_difuso",
         "nunca_costurei"
       ],
       "quando_usar": "Prova Social (6.3) e dentro das objeções. Enviar UM print por vez, o que responde à objeção do momento.",
@@ -339,9 +339,9 @@
         "organica"
       ],
       "objecoes": [
-        "tenho_medo",
-        "tenho_vergonha",
-        "nao_sou_criativa"
+        "medo_difuso",
+        "vergonha",
+        "nao_criativa"
       ],
       "quando_usar": "Objeções emocionais (6.4 / 7.8). Formato mais humano para validar medo.",
       "tags": [
@@ -377,7 +377,7 @@
         "organica"
       ],
       "objecoes": [
-        "nao_sou_criativa",
+        "nao_criativa",
         "nunca_costurei"
       ],
       "quando_usar": "Prova Social (6.5) e objeção de criatividade (7.6).",
@@ -414,8 +414,8 @@
         "organica"
       ],
       "objecoes": [
-        "marido_nao_apoia",
-        "tenho_vergonha",
+        "sem_apoio_familiar",
+        "vergonha",
         "casa_pequena"
       ],
       "quando_usar": "Prova Social (6.6) e objeções de isolamento/falta de apoio (7.10). Enviar UM print por vez.",
@@ -526,8 +526,8 @@
         "organica"
       ],
       "objecoes": [
-        "nao_tenho_maquina",
-        "minha_maquina_e_simples"
+        "sem_maquina",
+        "maquina_simples"
       ],
       "quando_usar": "Objeções 7.2 e 7.3. Mostra que técnica importa mais que equipamento.",
       "tags": [
