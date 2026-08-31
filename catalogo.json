@@ -1,0 +1,1020 @@
+{
+  "versao": "1.0.0",
+  "atualizado_em": "2026-08-31",
+  "cliente": "PÓE — Escalada da Costura",
+  "base_url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/",
+  "base_url_fallback": "https://raw.githubusercontent.com/gustavowalkersgroup/poe-midias/main/",
+  "total_ativos": 25,
+  "disponiveis": 14,
+  "indisponiveis": [
+    "ativo01",
+    "ativo06",
+    "ativo08",
+    "ativo09",
+    "ativo15",
+    "ativo17",
+    "ativo20",
+    "ativo21",
+    "ativo22",
+    "ativo23",
+    "ativo24"
+  ],
+  "limites_whatsapp": {
+    "imagem_mb": 5,
+    "video_mb": 16,
+    "audio_mb": 16,
+    "formatos_imagem_aceitos": [
+      "jpeg",
+      "png"
+    ],
+    "nota": "A plataforma NexTags nao entrega WebP, SVG nem GIF."
+  },
+  "ativos": [
+    {
+      "id": "ativo01",
+      "nome": "Áudio-mãe de Boas-vindas",
+      "tipo": "audio",
+      "disponivel": false,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "entrada",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "3ª mensagem da Entrada, logo após as duas bolhas de texto de abertura. Genérico: não cita a origem.",
+      "tags": [
+        "boas-vindas",
+        "abertura",
+        "entrada",
+        "voz da adriana"
+      ],
+      "motivo_indisponivel": "Não produzido — gravação de Adriana pendente (15-20s)"
+    },
+    {
+      "id": "ativo02",
+      "nome": "Áudio Curto — Reforço Sem Cobrança",
+      "tipo": "audio",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "entrada",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "carrinho_abandonado"
+      ],
+      "objecoes": [],
+      "quando_usar": "Logo após a bolha de texto que menciona o carrinho abandonado. Substitui o Áudio-mãe nesta origem.",
+      "tags": [
+        "carrinho abandonado",
+        "sem cobranca",
+        "reengajamento"
+      ],
+      "itens": [
+        {
+          "arquivo": "audio/ativo02-carrinho-abandonado.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo02-carrinho-abandonado.ogg",
+          "bytes": 81753,
+          "mb": 0.08,
+          "duracao_s": 31.9
+        }
+      ],
+      "quantidade": 1
+    },
+    {
+      "id": "ativo03",
+      "nome": "Áudio Longo — Trajetória de Adriana",
+      "tipo": "audio",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "autoridade",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Módulo de Autoridade (4.1). Único momento de áudio longo do funil.",
+      "tags": [
+        "autoridade",
+        "trajetoria",
+        "historia",
+        "quem e adriana"
+      ],
+      "itens": [
+        {
+          "arquivo": "audio/ativo03-trajetoria-adriana.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo03-trajetoria-adriana.ogg",
+          "bytes": 525062,
+          "mb": 0.5,
+          "duracao_s": 213.1
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Arquivo tem 213s; o roteiro previa 45-60s. Validar se a versão longa é a aprovada."
+    },
+    {
+      "id": "ativo04",
+      "nome": "Blusa Dupla Face — still e uso real",
+      "tipo": "video",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "despertar_desejo",
+      "perfis": [
+        "1",
+        "2"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Despertar do Desejo para quem nunca costurou ou já costura. Mostra a peça do Desafio de 7 Dias.",
+      "tags": [
+        "blusa dupla face",
+        "peca",
+        "desafio 7 dias",
+        "desejo"
+      ],
+      "itens": [
+        {
+          "arquivo": "video/ativo04-peca-dupla-face.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo04-peca-dupla-face.mp4",
+          "bytes": 3677874,
+          "mb": 3.51,
+          "duracao_s": 19.0
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Mapa de ativos classificava como Foto; o arquivo entregue é vídeo de 19s."
+    },
+    {
+      "id": "ativo05",
+      "nome": "Perfil Empreendedora — Autêntica sem cobrança",
+      "tipo": "video",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "despertar_desejo",
+      "perfis": [
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Despertar do Desejo exclusivo do perfil que quer empreender.",
+      "tags": [
+        "empreender",
+        "renda",
+        "trilha",
+        "perfil 3"
+      ],
+      "itens": [
+        {
+          "arquivo": "video/ativo05-perfil-empreendedora.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo05-perfil-empreendedora.mp4",
+          "bytes": 12069833,
+          "mb": 11.51,
+          "duracao_s": 101.7
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Mapa classificava como Áudio; entregue como vídeo. Recomprimido de 16,7MB para caber no limite do WhatsApp."
+    },
+    {
+      "id": "ativo06",
+      "nome": "Vídeo UGC — aluna concluindo a Blusa Dupla Face",
+      "tipo": "video",
+      "disponivel": false,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "prova_social",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [
+        "nunca_costurei",
+        "nunca_termino_cursos"
+      ],
+      "quando_usar": "Prova Social (6.1). Reaproveitado em objeções de capacidade.",
+      "tags": [
+        "ugc",
+        "aluna",
+        "prova social",
+        "primeira peca"
+      ],
+      "motivo_indisponivel": "Não produzido — captação UGC pendente (nunca roteirizado)"
+    },
+    {
+      "id": "ativo07",
+      "nome": "Prints de depoimento espontâneo",
+      "tipo": "imagem",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "prova_social",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [
+        "ja_fiz_outros_cursos",
+        "tenho_medo",
+        "nunca_costurei"
+      ],
+      "quando_usar": "Prova Social (6.3) e dentro das objeções. Enviar UM print por vez, o que responde à objeção do momento.",
+      "tags": [
+        "depoimento",
+        "print",
+        "prova social",
+        "espontaneo"
+      ],
+      "itens": [
+        {
+          "arquivo": "imagem/ativo07-depoimento-01.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo07-depoimento-01.jpeg",
+          "bytes": 100016,
+          "mb": 0.1
+        },
+        {
+          "arquivo": "imagem/ativo07-depoimento-02.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo07-depoimento-02.jpeg",
+          "bytes": 77795,
+          "mb": 0.07
+        },
+        {
+          "arquivo": "imagem/ativo07-depoimento-03.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo07-depoimento-03.jpeg",
+          "bytes": 94299,
+          "mb": 0.09
+        }
+      ],
+      "quantidade": 3
+    },
+    {
+      "id": "ativo08",
+      "nome": "Áudio de depoimento de aluna — medo/insegurança",
+      "tipo": "audio",
+      "disponivel": false,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "quebra_objecoes",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [
+        "tenho_medo",
+        "tenho_vergonha",
+        "nao_sou_criativa"
+      ],
+      "quando_usar": "Objeções emocionais (6.4 / 7.8). Formato mais humano para validar medo.",
+      "tags": [
+        "depoimento",
+        "audio",
+        "medo",
+        "vergonha",
+        "ugc"
+      ],
+      "motivo_indisponivel": "Não produzido — captação UGC pendente"
+    },
+    {
+      "id": "ativo09",
+      "nome": "Fotos de antes/depois de peças de alunas",
+      "tipo": "imagem",
+      "disponivel": false,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "prova_social",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [
+        "nao_sou_criativa",
+        "nunca_costurei"
+      ],
+      "quando_usar": "Prova Social (6.5) e objeção de criatividade (7.6).",
+      "tags": [
+        "antes e depois",
+        "transformacao",
+        "pecas",
+        "alunas"
+      ],
+      "motivo_indisponivel": "Não produzido"
+    },
+    {
+      "id": "ativo10",
+      "nome": "Prints de comunidade ativa",
+      "tipo": "imagem",
+      "disponivel": true,
+      "agente": [
+        "vendas",
+        "sac"
+      ],
+      "etapa": "quebra_objecoes",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [
+        "marido_nao_apoia",
+        "tenho_vergonha",
+        "casa_pequena"
+      ],
+      "quando_usar": "Prova Social (6.6) e objeções de isolamento/falta de apoio (7.10). Enviar UM print por vez.",
+      "tags": [
+        "comunidade",
+        "pertencimento",
+        "apoio",
+        "grupo"
+      ],
+      "itens": [
+        {
+          "arquivo": "imagem/ativo10-comunidade-01.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo10-comunidade-01.jpeg",
+          "bytes": 82976,
+          "mb": 0.08
+        },
+        {
+          "arquivo": "imagem/ativo10-comunidade-02.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo10-comunidade-02.jpeg",
+          "bytes": 106243,
+          "mb": 0.1
+        },
+        {
+          "arquivo": "imagem/ativo10-comunidade-03.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo10-comunidade-03.jpeg",
+          "bytes": 101217,
+          "mb": 0.1
+        },
+        {
+          "arquivo": "imagem/ativo10-comunidade-04.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo10-comunidade-04.jpeg",
+          "bytes": 76782,
+          "mb": 0.07
+        },
+        {
+          "arquivo": "imagem/ativo10-comunidade-05.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo10-comunidade-05.jpeg",
+          "bytes": 112304,
+          "mb": 0.11
+        }
+      ],
+      "quantidade": 5
+    },
+    {
+      "id": "ativo11",
+      "nome": "Vídeo único de Adriana — pré-conversão",
+      "tipo": "video",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "prova_social",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Última mensagem da Prova Social (6.7), imediatamente antes da Conversão. USO ÚNICO por conversa — não repetir.",
+      "tags": [
+        "adriana",
+        "camera",
+        "pre-conversao",
+        "pico emocional"
+      ],
+      "itens": [
+        {
+          "arquivo": "video/ativo11-pre-conversao.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo11-pre-conversao.mp4",
+          "bytes": 7947691,
+          "mb": 7.58,
+          "duracao_s": 128.7
+        }
+      ],
+      "quantidade": 1,
+      "uso_unico": true
+    },
+    {
+      "id": "ativo12",
+      "nome": "Prova do teste com máquina simples (R$138)",
+      "tipo": "video",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "quebra_objecoes",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [
+        "nao_tenho_maquina",
+        "minha_maquina_e_simples"
+      ],
+      "quando_usar": "Objeções 7.2 e 7.3. Mostra que técnica importa mais que equipamento.",
+      "tags": [
+        "maquina",
+        "equipamento",
+        "barata",
+        "objecao"
+      ],
+      "itens": [
+        {
+          "arquivo": "video/ativo12-teste-maquina-simples.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo12-teste-maquina-simples.mp4",
+          "bytes": 5709351,
+          "mb": 5.44,
+          "duracao_s": 27.2
+        }
+      ],
+      "quantidade": 1
+    },
+    {
+      "id": "ativo13",
+      "nome": "Áudio de boas-vindas oficial (pós-venda)",
+      "tipo": "audio",
+      "disponivel": true,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Onboarding etapa 9.2, logo após a confirmação de pagamento.",
+      "tags": [
+        "pos-venda",
+        "boas-vindas",
+        "onboarding",
+        "celebracao"
+      ],
+      "itens": [
+        {
+          "arquivo": "audio/ativo13-pos-venda-bem-vinda.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo13-pos-venda-bem-vinda.ogg",
+          "bytes": 122180,
+          "mb": 0.12,
+          "duracao_s": 48.8
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Arquivo tem 49s; o roteiro previa 30-40s."
+    },
+    {
+      "id": "ativo14",
+      "nome": "Selo Despertar Autêntico",
+      "tipo": "imagem",
+      "disponivel": true,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Primeira missão / primeiro selo (9.6-9.7). Reconhecimento da primeira conquista.",
+      "tags": [
+        "selo",
+        "gamificacao",
+        "conquista",
+        "badge"
+      ],
+      "itens": [
+        {
+          "arquivo": "imagem/ativo14-selo-despertar.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo14-selo-despertar.jpeg",
+          "bytes": 267817,
+          "mb": 0.26
+        }
+      ],
+      "quantidade": 1
+    },
+    {
+      "id": "ativo15",
+      "nome": "Vídeo de apresentação do curso Escalada da Costura",
+      "tipo": "video",
+      "disponivel": false,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Primeira missão (9.6).",
+      "tags": [
+        "curso",
+        "apresentacao",
+        "escalada",
+        "primeira missao"
+      ],
+      "motivo_indisponivel": "Não produzido"
+    },
+    {
+      "id": "ativo16",
+      "nome": "Lista de materiais — Blusa Dupla Face",
+      "tipo": "imagem",
+      "disponivel": true,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Primeira aula (9.8). O que a aluna precisa separar antes de começar.",
+      "tags": [
+        "materiais",
+        "lista",
+        "primeira aula",
+        "tecido"
+      ],
+      "itens": [
+        {
+          "arquivo": "imagem/ativo16-lista-materiais-blusa-dupla-face.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo16-lista-materiais-blusa-dupla-face.jpeg",
+          "bytes": 537773,
+          "mb": 0.51
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Mapa previa PDF; entregue como imagem JPEG."
+    },
+    {
+      "id": "ativo17",
+      "nome": "Vídeo das aulas do Dia 0 — Desafio de 7 Dias",
+      "tipo": "video",
+      "disponivel": false,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Primeira aula (9.8).",
+      "tags": [
+        "dia 0",
+        "aula",
+        "desafio 7 dias"
+      ],
+      "motivo_indisponivel": "Não produzido"
+    },
+    {
+      "id": "ativo18",
+      "nome": "Tutorial de download e instalação do app PÓE",
+      "tipo": "video",
+      "disponivel": true,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Entrega de acesso e download assistido (9.3-9.4).",
+      "tags": [
+        "tutorial",
+        "download",
+        "instalacao",
+        "app"
+      ],
+      "itens": [
+        {
+          "arquivo": "video/ativo1819-tutorial-download-instalacao.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo1819-tutorial-download-instalacao.mp4",
+          "bytes": 13496794,
+          "mb": 12.87,
+          "duracao_s": 129.8
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Arquivo único cobre os ativos 18 e 19 (download + primeiro login)."
+    },
+    {
+      "id": "ativo19",
+      "nome": "Tutorial de primeiro login no app",
+      "tipo": "video",
+      "disponivel": true,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Primeiro login acompanhado (9.5).",
+      "tags": [
+        "tutorial",
+        "login",
+        "app",
+        "primeiro acesso"
+      ],
+      "itens": [
+        {
+          "arquivo": "video/ativo1819-tutorial-download-instalacao.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo1819-tutorial-download-instalacao.mp4",
+          "bytes": 13496794,
+          "mb": 12.87,
+          "duracao_s": 129.8
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Mesmo arquivo do ativo18 — não enviar os dois na mesma conversa."
+    },
+    {
+      "id": "ativo20",
+      "nome": "Badges das lojas de download do app",
+      "tipo": "imagem",
+      "disponivel": false,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Entrega de acesso (9.3).",
+      "tags": [
+        "badge",
+        "app store",
+        "google play",
+        "download"
+      ],
+      "motivo_indisponivel": "Não produzido"
+    },
+    {
+      "id": "ativo21",
+      "nome": "Template de celebração — peça concluída",
+      "tipo": "imagem",
+      "disponivel": false,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Celebração da peça concluída (9.13).",
+      "tags": [
+        "celebracao",
+        "template",
+        "peca pronta"
+      ],
+      "motivo_indisponivel": "Não produzido"
+    },
+    {
+      "id": "ativo22",
+      "nome": "Template de post — materiais separados",
+      "tipo": "imagem",
+      "disponivel": false,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "pos_venda",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Primeira postagem na comunidade (9.9).",
+      "tags": [
+        "template",
+        "post",
+        "comunidade"
+      ],
+      "motivo_indisponivel": "Não produzido"
+    },
+    {
+      "id": "ativo23",
+      "nome": "Vídeo de apresentação do Clube das Autênticas",
+      "tipo": "video",
+      "disponivel": false,
+      "agente": [
+        "sac"
+      ],
+      "etapa": "evolucao",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Transição para o Clube das Autênticas (9.16).",
+      "tags": [
+        "clube",
+        "autenticas",
+        "upsell",
+        "evolucao"
+      ],
+      "motivo_indisponivel": "Não produzido"
+    },
+    {
+      "id": "ativo24",
+      "nome": "Mapa visual da jornada PÓE",
+      "tipo": "imagem",
+      "disponivel": false,
+      "agente": [],
+      "etapa": "interno",
+      "perfis": [],
+      "origens": [],
+      "objecoes": [],
+      "quando_usar": "USO INTERNO — documentação da equipe. NUNCA enviar ao cliente.",
+      "tags": [
+        "mapa",
+        "jornada",
+        "interno",
+        "documentacao"
+      ],
+      "motivo_indisponivel": "Não produzido",
+      "uso_interno": true
+    },
+    {
+      "id": "extra01",
+      "nome": "Áudio sazonal — Dia das Mães",
+      "tipo": "audio",
+      "disponivel": true,
+      "agente": [
+        "vendas"
+      ],
+      "etapa": "campanha_sazonal",
+      "perfis": [
+        "1",
+        "2",
+        "3"
+      ],
+      "origens": [
+        "redes_sociais",
+        "indicacao",
+        "cliente_antiga",
+        "aluna",
+        "clube",
+        "carrinho_abandonado",
+        "organica"
+      ],
+      "objecoes": [],
+      "quando_usar": "Campanha sazonal de Dia das Mães. Só usar se a campanha estiver ativa — confirmar com a equipe.",
+      "tags": [
+        "dia das maes",
+        "sazonal",
+        "campanha"
+      ],
+      "itens": [
+        {
+          "arquivo": "audio/extra-dia-das-maes.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/extra-dia-das-maes.ogg",
+          "bytes": 60511,
+          "mb": 0.06,
+          "duracao_s": 24.0
+        }
+      ],
+      "quantidade": 1,
+      "aviso": "Não consta no Mapa de Ativos oficial (24 itens). Enviado fora de campanha soa deslocado."
+    }
+  ]
+}
