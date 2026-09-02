@@ -1,6 +1,7 @@
 {
-  "versao": "2.1.0",
+  "versao": "2.2.0",
   "atualizado_em": "2026-09-02",
+  "nota_links": "ativo14/16/18 sao tipo link: a URL aponta para uma aula no LMS metodopoe.com.br e exige login da aluna. Vao como link em texto ou botao, nunca como attachment.",
   "fonte": "PÓE_Mapa_de_Ativos_Revisado.docx (Fase 5) — 18 ativos",
   "base_url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/",
   "nota_cdn": "Use SEMPRE jsDelivr. raw.githubusercontent serve .mp4 como application/octet-stream e o WhatsApp rejeita.",
@@ -332,11 +333,14 @@
       "agente": [
         "sac"
       ],
-      "quando_usar": "Etapa 9.6 (primeira missão). Vídeo hospedado no App PÓE — enviar como LINK no texto, nunca como attachment.",
+      "quando_usar": "Etapa 9.6 (primeira missão). Vídeo hospedado no LMS metodopoe.com.br — enviar como LINK no texto, nunca como attachment.",
       "formato_envio": "link_no_texto",
-      "disponivel": false,
-      "motivo_indisponivel": "URL do App PÓE não fornecida pela cliente",
-      "itens": []
+      "disponivel": true,
+      "itens": [
+        {
+          "url": "https://metodopoe.com.br/course/c6f10e07-6b69-4b84-4a5b-08de7e09ef84/lesson/af25d40e-2749-443d-25ff-08deded67f00"
+        }
+      ]
     },
     {
       "id": "ativo15",
@@ -364,11 +368,14 @@
       "agente": [
         "sac"
       ],
-      "quando_usar": "Etapa 9.8 (primeira aula). Vídeo hospedado no App PÓE — enviar como LINK no texto.",
+      "quando_usar": "Etapa 9.8 (primeira aula). São as duas aulas do Dia 0, hospedadas no LMS metodopoe.com.br — enviar como LINK no texto.",
       "formato_envio": "link_no_texto",
-      "disponivel": false,
-      "motivo_indisponivel": "URL do App PÓE não fornecida pela cliente",
-      "itens": []
+      "disponivel": true,
+      "itens": [
+        {
+          "url": "https://metodopoe.com.br/course/074cc3e9-18d6-4611-bad0-08de82503de7/lesson/56fc811a-eb95-40b7-9d72-08de81de5ea4"
+        }
+      ]
     },
     {
       "id": "ativo17",
@@ -397,11 +404,14 @@
       "agente": [
         "sac"
       ],
-      "quando_usar": "Etapa 9.16 (transição para o Clube). Vídeo hospedado no App PÓE — enviar como LINK no texto.",
+      "quando_usar": "Etapa 9.16 (transição para o Clube). Vídeo hospedado no LMS metodopoe.com.br — enviar como LINK no texto.",
       "formato_envio": "link_no_texto",
-      "disponivel": false,
-      "motivo_indisponivel": "URL do App PÓE não fornecida pela cliente",
-      "itens": []
+      "disponivel": true,
+      "itens": [
+        {
+          "url": "https://metodopoe.com.br/course/074cc3e9-18d6-4611-bad0-08de82503de7/lesson/0c1fdb57-8ec5-4975-2660-08deded67f00"
+        }
+      ]
     }
   ]
 }
