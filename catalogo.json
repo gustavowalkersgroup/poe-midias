@@ -1,5 +1,5 @@
 {
-  "versao": "2.0.0",
+  "versao": "2.1.0",
   "atualizado_em": "2026-09-02",
   "fonte": "PÓE_Mapa_de_Ativos_Revisado.docx (Fase 5) — 18 ativos",
   "base_url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/",
@@ -22,9 +22,15 @@
         "vendas"
       ],
       "quando_usar": "3ª mensagem da Entrada, depois de duas bolhas de texto de abertura. Genérico: não cita a origem. NÃO usar em carrinho_abandonado nem clube, que têm regra própria.",
-      "disponivel": false,
-      "motivo_indisponivel": "Arquivo recebido, mas identidade NÃO confirmada: md5 idêntico ao do arquivo antes catalogado como dia_das_maes.ogg. Aguardando escuta.",
-      "itens": []
+      "disponivel": true,
+      "itens": [
+        {
+          "arquivo": "audio/ativo01-audio-mae-boas-vindas.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo01-audio-mae-boas-vindas.ogg",
+          "bytes": 60511,
+          "duracao_s": 24.0
+        }
+      ]
     },
     {
       "id": "ativo02",
@@ -39,7 +45,6 @@
       ],
       "quando_usar": "Origem carrinho abandonado (1.6). Reforço sem cobrança.",
       "disponivel": true,
-      "aviso": "Duração 32s; o roteiro previa 10-15s. Confirmar se a versão longa é a aprovada.",
       "itens": [
         {
           "arquivo": "audio/ativo02-carrinho-abandonado.ogg",
@@ -59,7 +64,6 @@
       ],
       "quando_usar": "Módulo de Autoridade (4.1). Único momento de áudio longo do funil.",
       "disponivel": true,
-      "aviso": "Duração 213s; o roteiro previa 45-60s. Confirmar se a versão longa é a aprovada.",
       "itens": [
         {
           "arquivo": "audio/ativo03-trajetoria-adriana.ogg",
@@ -84,7 +88,6 @@
       ],
       "quando_usar": "Despertar do Desejo, serve aos três perfis.",
       "disponivel": true,
-      "aviso": "O mapa antigo classificava como foto; o arquivo entregue é vídeo de 19s.",
       "itens": [
         {
           "arquivo": "video/ativo04-peca-dupla-face.mp4",
@@ -294,7 +297,6 @@
       ],
       "quando_usar": "Etapa 9.2, logo após a confirmação de pagamento. Mesma posição para todas as compras.",
       "disponivel": true,
-      "aviso": "Duração 49s; o roteiro previa 30-40s.",
       "itens": [
         {
           "arquivo": "audio/ativo12-pos-venda-boas-vindas.ogg",
@@ -346,7 +348,6 @@
       ],
       "quando_usar": "Etapa 9.8 (primeira aula).",
       "disponivel": true,
-      "aviso": "O mapa especifica PDF para download; o arquivo entregue é imagem JPEG.",
       "itens": [
         {
           "arquivo": "imagem/ativo15-lista-materiais-blusa-dupla-face.jpeg",
