@@ -1,6 +1,6 @@
 {
-  "versao": "2.2.0",
-  "atualizado_em": "2026-09-02",
+  "versao": "2.3.3",
+  "atualizado_em": "2026-09-08",
   "nota_links": "ativo14/16/18 sao tipo link: a URL aponta para uma aula no LMS metodopoe.com.br e exige login da aluna. Vao como link em texto ou botao, nunca como attachment.",
   "fonte": "PÓE_Mapa_de_Ativos_Revisado.docx (Fase 5) — 18 ativos",
   "base_url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/",
@@ -27,11 +27,50 @@
       "itens": [
         {
           "arquivo": "audio/ativo01-audio-mae-boas-vindas.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo01-audio-mae-boas-vindas.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo01-audio-mae-boas-vindas.ogg",
           "bytes": 60511,
-          "duracao_s": 24.0
+          "duracao_s": 24.0,
+          "transcricao": "E aí Autêntica! Adriana PÓE aqui! Prazer imenso falar contigo, que bom, que bom de verdade que você tá aqui, eu tô muito feliz. Menina, vamos conversar? Me conta um pouquinho de você, qual é a sua história com a costura? Me fala, por enquanto é só um sonho ou você já sabe um pouquinho e tá querendo aprender mais? Me conta.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo01-audio-mae-boas-vindas.ogg",
+          "sha256": "abcc8f0c290fde4e3d03b43197968246667ce7de0c4e7bf99873459f31f986b2"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Áudio de 24s da Adriana se apresentando e perguntando a história da pessoa com a costura. É abertura de conversa, não tem conteúdo de produto, preço nem prazo.",
+        "assunto": [
+          "boas_vindas",
+          "apresentacao_adriana",
+          "primeiro_contato",
+          "quebra_gelo",
+          "pergunta_sobre_historia_com_costura",
+          "sonho_de_costurar",
+          "acolhimento_da_autentica",
+          "convite_para_conversar"
+        ],
+        "responde": [
+          "oi, tem alguém aí?",
+          "olá, boa tarde, tudo bem?",
+          "com quem eu estou falando?",
+          "é a Adriana mesmo que responde?",
+          "cheguei aqui pelo anúncio, e agora?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa dupla face",
+          "quanto custa o desafio de 7 dias",
+          "que tecido eu compro para fazer a blusa",
+          "me conta a sua história, como você começou na costura",
+          "como faço para me inscrever e pagar",
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Prazer imenso falar com você! Me conta um pouquinho de você: qual é a sua história com a costura? Por enquanto é só um sonho, ou você já sabe um pouquinho e quer aprender mais?",
+        "cuidados_ia": "É saudação. Não responde nenhuma pergunta sobre produto, valor ou material. Se ela já contou a história dela, não envie: soa como se você não tivesse lido.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo02",
@@ -49,11 +88,50 @@
       "itens": [
         {
           "arquivo": "audio/ativo02-carrinho-abandonado.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo02-carrinho-abandonado.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo02-carrinho-abandonado.ogg",
           "bytes": 81753,
-          "duracao_s": 31.9
+          "duracao_s": 31.9,
+          "transcricao": "Real, Autêntica, passei rapidinho porque eu vi que você quase entrou no Desafio de 7 Dias e acabou ali não entrando no final. Mas tá tudo bem. Às vezes surge uma dúvida, às vezes a vida acontece. Enfim, eu só vim aqui realmente porque eu queria saber se ficou alguma dúvida, alguma pergunta, se eu posso te ajudar em alguma coisa. Eu quero muito, muito, muito te ajudar a desbloquear a costureira que existe dentro de você. E eu tô aqui pra te ajudar. Então, pode falar.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo02-carrinho-abandonado.ogg",
+          "sha256": "84044a2ea55cebec0d5d14eaba5d571ced97345d843fc0509fb7b3b76ed004de"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Áudio de 31s para quem quase entrou no Desafio de 7 Dias e não concluiu. Acolhe sem cobrar e abre espaço para a dúvida. Só faz sentido em carrinho abandonado.",
+        "assunto": [
+          "carrinho_abandonado",
+          "checkout_nao_finalizado",
+          "desafio_7_dias",
+          "acolhimento_sem_pressao",
+          "oferta_de_ajuda",
+          "abertura_para_duvidas",
+          "retomada_de_contato",
+          "desbloquear_costureira"
+        ],
+        "responde": [
+          "comecei a entrar no Desafio de 7 Dias mas não terminei, ainda dá pra fazer?",
+          "fiquei com uma dúvida na hora de finalizar e acabei desistindo",
+          "não consegui concluir minha inscrição, você pode me ajudar?",
+          "desisti no meio do processo, tem problema? vocês ficaram chateados?",
+          "posso tirar uma dúvida antes de decidir entrar no Desafio?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa dupla face — o áudio não mostra nem descreve a peça",
+          "quanto custa o Desafio de 7 Dias / como pago — o áudio não cita preço, parcelamento nem link de pagamento",
+          "que tecido e aviamentos eu compro pra blusa — o áudio não dá nenhuma orientação técnica de costura",
+          "quem é a Adriana, como ela começou, quantas peças ela vendeu — o áudio não conta trajetória nem constrói autoridade",
+          "quero saber da Trilha das Empreendedoras / do Clube das Autênticas — o áudio fala exclusivamente do Desafio de 7 Dias",
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Passei rapidinho porque vi que você chegou pertinho de entrar no Desafio de 7 Dias e acabou não seguindo. E tá tudo bem, às vezes surge uma dúvida, às vezes a vida acontece. Eu só queria saber se ficou alguma pergunta, se eu posso te ajudar em alguma coisa.",
+        "cuidados_ia": "Só para carrinho abandonado. Enviar para quem nunca chegou ao checkout inventa um fato sobre ela.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo03",
@@ -68,11 +146,49 @@
       "itens": [
         {
           "arquivo": "audio/ativo03-trajetoria-adriana.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo03-trajetoria-adriana.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo03-trajetoria-adriana.ogg",
           "bytes": 525062,
-          "duracao_s": 213.1
+          "duracao_s": 213.1,
+          "transcricao": "Vamos lá, quero dividir um pedacinho da minha história com você, bem rápido. Eu sempre fui apaixonada pela costura, por moda, por criar. E eu comecei a costurar com 15 anos, bem novinha. Foi justamente essa paixão que me levou a escolher faculdade de design de moda, estudar para ser estilista. E lá na faculdade foi tão incrível. Eu vivi tantas experiências que eu nunca imaginei. Durante a faculdade, eu ganhei um concurso e fui representar o Brasil na China por conta da costura. Trabalhei com grandes nomes da moda, do São Paulo Fashion Week, durante muito tempo. E quando eu finalizei, eu achei que o meu grande sonho era fazer vestidos de festa e noiva. E eu fiz, foi uma realização incrível, eu fiz por muitos anos, inclusive. Mas no meio desse processo, eu criei a PÓE Moda Ajustável. E a PÓE foi sem dúvida o grande sonho realizado da minha carreira até aqui. Foi através dela que as minhas criações chegaram a mulheres de vários lugares do mundo. E mesmo depois que a marca encerrou sua história, só de pensar no legado que ela deixou, meu coração fica quentinho, cheio de gratidão. Foram mais de 30 mil peças criadas e vendidas. E saber que muitas dessas ainda estão por aí, sendo usadas, amadas, fazendo parte do guarda-roupa e da história de tantas mulheres, é muito emocionante. Esse sonho eu vivi intensamente. Mas sabe o que é muito curioso? Mesmo vivendo tudo isso, eu percebi, em algum momento, que o que realmente mais enchia o meu coração nunca foi realmente vender as roupas. O que mais me emocionava era ver uma mulher se olhar no espelho e voltar a se sentir bonita, se sentir vista, abraçada, valorizada, independente do biotipo que ela tinha. E foi nesse caminho que Deus começou a direcionar o meu coração para um propósito ainda maior. Eu senti que estava chegando a hora de fazer uma escolha realmente muito difícil. Abrir mão de todo aquele sucesso, daquele sonho realizado, de uma marca que tinha dado muito certo, para obedecer a um propósito que estava queimando dentro de mim. E esse propósito, na verdade, era ensinar. Ensinar outras mulheres a descobrirem que elas também são capazes de criar. Porque existe uma emoção que é muito difícil até de colocar em palavras. É quando você faz uma peça com as próprias mãos e vê alguém sorrindo ao vestir aquilo que você criou. Quando você percebe que o seu trabalho levantou a autoestima de outra mulher, que ela voltou a se sentir bonita, confiante, isso não tem preço. Então eu pensei, e se milhares de mulheres também pudessem viver essa mesma emoção? Foi exatamente aí que nasceu o Método PÓE. Tudo o que eu ensino hoje nasceu dessa caminhada. Não é teoria, é a minha experiência de muitos anos, criando, errando, acertando, aprendendo e acreditando que toda mulher é capaz de criar muito mais do que ela imagina. E é por isso que eu acredito tanto em você. Porque se esse sonho chegou até o seu coração, talvez ele também seja o começo de uma história muito bonita.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo03-trajetoria-adriana.ogg",
+          "sha256": "8de56c473a25e879e6cbc72d87e3c11c4ee3cf598714d6c1895a3dd7934ac36a"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Áudio de 3min33 com a trajetória completa da Adriana: costura aos 15 anos, faculdade de design de moda, concurso que a levou a representar o Brasil na China, São Paulo Fashion Week, vestidos de festa e noiva, a marca PÓE com mais de 30 mil peças, e a decisão de encerrar para ensinar.",
+        "assunto": [
+          "trajetoria_adriana",
+          "historia_da_marca_poe",
+          "origem_do_metodo_poe",
+          "formacao_design_de_moda",
+          "encerramento_da_marca_de_roupas",
+          "por_que_passou_a_ensinar",
+          "30_mil_pecas_vendidas"
+        ],
+        "responde": [
+          "quem é a Adriana PÓE?",
+          "desde quando você costura? tem formação ou é autodidata?",
+          "por que você fechou a marca de roupas e começou a ensinar costura?",
+          "como surgiu o Método PÓE?",
+          "a PÓE ainda vende roupa pronta?",
+          "quantas peças a PÓE já vendeu?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa dupla face",
+          "quanto custa o Desafio de 7 Dias / a Trilha das Empreendedoras?",
+          "que tecido e que máquina eu compro pra começar?",
+          "me manda o link pra eu me inscrever e pagar",
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Eu comecei a costurar com 15 anos e essa paixão me levou para a faculdade de design de moda. Ganhei um concurso e fui representar o Brasil na China, trabalhei com grandes nomes do São Paulo Fashion Week, fiz vestidos de festa e de noiva por muitos anos. No meio disso criei a PÓE, que vendeu mais de 30 mil peças. Mas o que mais me emocionava nunca foi vender a roupa: era ver uma mulher se olhar no espelho e voltar a se sentir bonita. Foi por isso que eu escolhi ensinar.",
+        "cuidados_ia": "É o áudio mais longo do acervo, 3min33. Não envie no meio de uma dúvida objetiva (preço, material, acesso): responda a pergunta primeiro. O prompt tem só \"30 mil peças em 15 países\"; os detalhes de China, concurso e SPFW vêm daqui e podem ser ditos em texto.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo04",
@@ -92,11 +208,42 @@
       "itens": [
         {
           "arquivo": "video/ativo04-peca-dupla-face.mp4",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo04-peca-dupla-face.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/video/ativo04-peca-dupla-face.mp4",
           "bytes": 3677874,
-          "duracao_s": 19.0
+          "duracao_s": 19.0,
+          "descricao_visual": "Vídeo vertical de celular, dividido em duas partes bem distintas. Nos três primeiros frames, Adriana aparece de pé numa sala clara decorada (quadros na parede, prateleira, mesinhas redondas e lanternas metálicas de chão) mostrando três versões da Blusa Dupla Face: primeiro uma peça verde-militar lisa e comprida, cuja barra ela levanta para revelar o forro azul-marinho do outro lado; depois uma blusa estampada tropical em verde-água com folhagens rosa-magenta, combinada com saia longa da mesma estampa, virando a barra para mostrar o avesso vinho; e por fim uma blusa de estampa floral laranja, amarela e turquesa sobre fundo azul, usada com shorts branco. Nesses três frames há a mesma legenda branca com contorno preto: \"Olha o que acontece quando você aprende UMA modelagem!\". Há corte seco de cenário na segunda metade: o vídeo passa a mostrar capturas de tela de celular — uma conversa de WhatsApp com o depoimento de uma aluna e duas fotos dela usando uma blusa estampada azul-clara, e o mural do app do Método PÓE com um post de outra aluna e a resposta da Adriana nos comentários. O último frame é um card preto com texto branco seguido de um close cropado do decote da mesma blusa azul-clara, com colar de pingente de coração; a faixa inferior desse frame é preta.",
+          "texto_na_imagem": "FRAMES 1, 2 e 3 (legenda idêntica sobre o vídeo):\n\"Olha o que acontece quando você aprende UMA modelagem!\"\n(Na prateleira ao fundo do frame 1 há livros com títulos pequenos demais para leitura — ilegíveis.)\n\nFRAME 4 (print de conversa de WhatsApp):\n\"3 online\"\n\"Mensagem de voz (3:29)\"\n\"Hoje\"\n\"Cristina (sobrenome omitido) Fund…\"\n\"11:13\"\n\"❤️ 👏 💙 6\"\n\"Bom diiiiia querida mestra . Amei minha primeira blusinha! Obrigada por todo carinho q se dedicou a nós Autênticas 😘 🌷🌿\"\n\"11:15\"\n\"Simone (sobrenome omitido) Fundadora\" (linha cortada na borda inferior do frame)\n\nFRAME 5 (print do mural do app do Método PÓE):\n\"PÓE\" (logotipo no topo à esquerda)\n\"AVISO\"\n\"Fundadora, apresente-se!\"\n\"Postar\"\n\"Feed\" | \"Grupos\"\n\"SIMONE\" · \"em Clube das Autênticas\" · \"há 22 horas\"\n\"Terminei sexta feira a minha primeira PÓE, e já foi estampada!\"\n\"❤️ 1\"  \"💬 1\"\n\"Adriana PÓE\" · \"há alguns segundos\"\n\"Simone, eu estou amando acompanhar a sua felicidade com essa blusa!!! 😂😊🧡 E preciso elogiar de novo a…\" (texto cortado)\n\"SIMONE\" · \"em Mural das Autênticas\" · \"há 3 dias\"\n\"Mas volta lá rapidinho que ficou uma falha na latera…\" (texto cortado) \"😂😂\"\n\nFRAME 6 (card preto com texto branco):\n\"Em apenas 7 dias, você pode estar vestindo a primeira blusa feita por você!\"",
+          "cuidados_do_arquivo": "O vídeo expõe duas alunas reais (Cristina e Simone) com rosto, fotos e trechos de conversa privada de WhatsApp e de posts no mural do app; as telas mostram sobrenomes que foram omitidos nesta descrição — se o arquivo for reenviado, o sobrenome continua visível na imagem. Nada de sensível (luto, doença, dificuldade financeira) aparece; o único ponto delicado é um comentário público de aluna citando um defeito na própria peça (\"ficou uma falha na lateral\"), em tom de brincadeira. Atenção ao uso: além da Blusa Dupla Face, o vídeo mostra vestido/peça longa, saia longa e shorts — se a cliente pediu especificamente \"a blusa\", vale dizer que o vídeo mostra variações da mesma modelagem. O card final promete \"em apenas 7 dias\" a primeira peça, o que amarra este ativo ao Desafio de 7 Dias da Blusa Dupla Face; não use em contexto da Trilha das Empreendedoras sem esse enquadramento. Os textos do app usam grafia \"Póe\", normalizada aqui para \"PÓE\". Alguns textos dos prints estão cortados na borda do frame.",
+          "transcricao": "Por muitos anos eu vendia essas blusas prontas. Hoje eu posso te ensinar algo muito maior: a fazer a sua própria, aliás, colecionar diversas blusas. A Cris já aprendeu a dela, a Simone também. Topa o desafio? Em sete dias você pode estar vestindo a sua primeira peça.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo04-peca-dupla-face.mp4",
+          "sha256": "6b646322190d41ec898d833a2e317515cf8d8b79fa8c8c168699e2226e123ea8"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Vídeo de 19s que MOSTRA a Blusa Dupla Face em três variações vestidas (verde-militar com forro azul-marinho, estampa verde-água com saia, floral laranja com shorts), virando a barra para revelar o outro lado, e fecha com prints de duas alunas que já fizeram a peça. É o único ativo que responde \"quero ver a blusa\".",
+        "assunto": [
+          "blusa_dupla_face",
+          "versatilidade_modelagem",
+          "peca_pronta",
+          "depoimento_aluna",
+          "prova_social",
+          "mural_comunidade",
+          "app_metodo_poe",
+          "desafio_7_dias"
+        ],
+        "responde": [
+          "quero ver a blusa",
+          "como é a Blusa Dupla Face na prática?",
+          "dá para fazer mais de uma peça com a mesma modelagem?",
+          "outras alunas já conseguiram costurar a delas?",
+          "em quanto tempo eu consigo fazer a minha primeira blusa?"
+        ],
+        "nao_serve_para": [],
+        "fallback_texto": "A Blusa Dupla Face é uma peça de dois lados: você vira e ela é outra blusa, muda a cor, muda a estampa. Dá para fazer em liso ou estampado, e a mesma modelagem rende várias peças diferentes no seu armário. Em sete dias você pode estar vestindo a primeira feita por você.",
+        "cuidados_ia": "ESTE é o ativo para \"quero ver a blusa\", \"tem foto?\", \"tem vídeo da peça?\". Além da blusa ele mostra saia e shorts da mesma modelagem: se ela pediu só a blusa, diga que o vídeo traz variações. Amarrado ao Desafio de 7 Dias, não use para a Trilha.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo05",
@@ -115,11 +262,48 @@
       "itens": [
         {
           "arquivo": "video/ativo05-perfil-empreendedora.mp4",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo05-perfil-empreendedora.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/video/ativo05-perfil-empreendedora.mp4",
           "bytes": 12069833,
-          "duracao_s": 101.7
+          "duracao_s": 101.7,
+          "descricao_visual": "Compilado de bastidores da antiga operação de roupa pronta da PÓE, gravado na vertical com celular, sem ninguém falando para a câmera: a narração é só em off, correndo por cima de imagens de arquivo, e cada frame corta para um cenário diferente. Na sequência: (1) três mulheres da equipe, sorrindo, jogando pacotes sobre uma mesa lotada de embalagens azul-claras e kraft, dentro de um estoque com prateleiras de arame do chão ao teto cheias de peças dobradas coloridas; (2) um print de story do Instagram (perfil \"Autênticas\", com X de fechar, \"Ver tradução\" e coraçõezinhos subindo na tela) mostrando duas mulheres abraçadas na porta da loja física, diante de vitrine com manequins em calças pantalona verde, mostarda e navy, sobre calçada portuguesa; (3) sacolas de papel kraft estampadas com borboletas e o logo PÓE em pé sobre um balcão de madeira escura, com prateleira de cones de linha coloridos ao fundo; (4) balcão de vidro com pedidos embalados em plástico, cada um com uma nota branca dobrada por cima e um selo redondo vermelho da PÓE, e uma pessoa de tronco visível manuseando pacotes ao fundo; (5) dezenas de sacolas kraft com borboleta enfileiradas nos degraus de uma escada junto a uma janela; (6) pilhas de peças embaladas em plástico (cinza, rosa, vinho e lilás) com notas fiscais por cima. Nenhuma peça de roupa aparece vestida, aberta ou em close — tudo está dobrado, embalado ou em manequim de vitrine ao fundo; a Blusa Dupla Face não é mostrada. O vídeo tem legenda queimada palavra por palavra (estilo karaokê) no centro-baixo de cada frame.",
+          "texto_na_imagem": "Legendas queimadas, uma por frame, na ordem cronológica: \"gente\" / \"apenas\" / \"dupla\" / \"muito\" / \"produtos\" / \"através\".\n\nFrame 2 (print de story do Instagram): \"Autênticas\" (nome do perfil, parcialmente coberto e de leitura incerta) · \"25 de maio de 2022\" (data parcialmente coberta pelo texto, dígito do dia de leitura incerta) · \"Ver tradução\" · caixa de texto branca: \"Cliente lindaaa veio com o maridão de Holambra só pra conhecer a PÓE !!! Foi um prazer conhecer vocês, sejam sempre muito bem-vindos 💗\" · no toldo/fachada, \"PÓE\" (letras grandes, cortadas pelo enquadramento) e, na vitrine, \"...DE STORE\" em letras coral (início ilegível, provavelmente \"PÓE STORE\") · no rodapé, uma marcação de usuário ilegível, algo como \"...IN.8.SENATURE\", encoberta por emojis de coração.\n\nFrame 3: a palavra \"PÓE\" impressa, repetida, nas sacolas de papel kraft.\n\nFrame 4: selos redondos vermelhos com o logo da PÓE (texto pequeno demais para leitura); etiquetas e notas fiscais ilegíveis.\n\nFrame 6: \"Bastidores do nosso BYEBYE!\"",
+          "cuidados_do_arquivo": "Este vídeo NÃO mostra a Blusa Dupla Face nem qualquer peça vestida ou em close — não use como resposta a \"quero ver a blusa\"; ele serve como prova de trajetória e de produto validado. Aparecem rostos de pessoas reais identificáveis (três integrantes da equipe no frame 1 e duas mulheres abraçadas no frame 2, uma delas cliente), mas nenhum nome é exibido na tela, então não é possível nomeá-las; o frame 2 é o repost de um story de terceiro com marcação de usuário ilegível, e a cliente é citada como vinda de Holambra com o marido — informação pessoal leve, sem conteúdo sensível. O material é datado (story de maio de 2022) e retrata a operação de roupa pronta e a loja física; o texto \"Bastidores do nosso BYEBYE!\" sugere despedida/encerramento dessa fase, mas o sentido exato não está claro no vídeo — pode confundir quem achar que a PÓE ainda vende roupa pronta. O áudio promete um próximo passo sobre vendas, precificação e posicionamento: só envie se esse próximo conteúdo realmente existir na esteira.",
+          "transcricao": "Autêntica, deixa eu te contar uma coisa que talvez ninguém nunca tenha te falado. Muita gente sabe costurar lindamente, mas pouca gente sabe o que costurar para vender. Isso tem uma diferença absurda entre as duas coisas. Durante mais de 10 anos eu vivi e prosperei muito da venda dessas exatas peças. Deixa eu te falar, quando eu escolhi os 7 Pilares da Escalada da Costura, eu não pensei apenas em ensinar técnicas de modelagem, eu escolhi exatamente as que permaneceram vendendo durante todos esses anos. Peças atemporais, peças comerciais e que vestiam todos os biotipos lindamente e que as mulheres queriam comprar de novo, de novo, de novo. Sabe aquelas peças colecionáveis? E a Blusa Dupla Face, por exemplo, nunca saiu da coleção. Mudavam as cores, as estampas, mas ela continuava vendendo. Isso me ensinou uma coisa muito importante, presta atenção. A venda começa no produto certo. Quando você cria algo que as pessoas realmente desejam comprar, vender fica muito mais natural. Então, primeiro, eu quero te ensinar a construir essa base, a base do produto validado. Eu quero que você entenda que essa nova lógica de modelagem é algo que vai transformar você em uma empreendedora que tem os produtos certos nas mãos. Depois disso, pode deixar, que eu não vou esquecer do seu sonho de empreender. Eu vou te convidar para um próximo passo. Aí sim, compartilhar tudo o que eu aprendi sobre vendas, precificação, posicionamento e como construir um negócio saudável através da costura. Mas uma coisa de cada vez. Primeiro, você vai desvendar o mistério do tal produto campeão. Vamos nessa?",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo05-perfil-empreendedora.mp4",
+          "sha256": "8d2c716a126470fdadeda2f3716e7d9c14e02dc159da5ff9248bd51c0d6dd8c7"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Vídeo de 1min41 sobre a diferença entre saber costurar e saber O QUE costurar para vender, os 7 Pilares da Escalada e a lógica do produto validado. O visual são bastidores do estoque, da loja física e da expedição da antiga PÓE, sem nenhuma peça vestida.",
+        "assunto": [
+          "bastidores_poe",
+          "loja_fisica_poe",
+          "produto_validado",
+          "prova_social",
+          "embalagem_poe",
+          "expedicao_de_pedidos",
+          "trajetoria_adriana",
+          "o_que_costurar_para_vender"
+        ],
+        "responde": [
+          "a PÓE já vendeu roupa de verdade ou só ensina?",
+          "como era a loja física e a operação da PÓE?",
+          "não basta saber costurar? o que eu preciso escolher para vender?",
+          "por que peças atemporais e comerciais vendem mais?",
+          "de onde vem a autoridade da Adriana para ensinar a vender costura?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?",
+          "tem foto da peça pronta?"
+        ],
+        "fallback_texto": "Muita gente sabe costurar lindamente, mas pouca gente sabe o que costurar para vender, e a diferença entre as duas coisas é enorme. Quando eu escolhi os 7 Pilares da Escalada da Costura, eu não escolhi só técnicas: escolhi as peças que continuaram vendendo por mais de 10 anos, atemporais, que vestiam todos os biotipos. A Blusa Dupla Face nunca saiu da coleção. A venda começa no produto certo.",
+        "cuidados_ia": "NÃO mostra a Blusa Dupla Face nem peça vestida: nunca use para \"quero ver a blusa\". O visual é material de arquivo de 2022 da operação de roupa pronta, incluindo despedida da loja; se ela perguntar se a PÓE ainda vende roupa, a resposta é não, hoje você ensina.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo06",
@@ -142,20 +326,90 @@
       "itens": [
         {
           "arquivo": "imagem/ativo06-depoimento-01.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo06-depoimento-01.jpeg",
-          "bytes": 100016
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo06-depoimento-01.jpeg",
+          "bytes": 100016,
+          "descricao_visual": "Print de tela de celular (15:48) do aplicativo do Método PÓE, na aba \"Feed\" do Mural, com o logotipo PÓE em círculo laranja no topo e um banner de aviso \"Fundadora, apresente-se!\". O post em destaque é de Simone, publicado no grupo Clube das Autênticas há 22 horas, dizendo que terminou na sexta-feira a primeira blusa dela e que já foi estampada. Acompanham duas selfies lado a lado: mulher de cabelo grisalho preso em coque e óculos de armação vinho, sorrindo, vestindo uma blusa vinho/bordô com decote em V debruado em azul-claro e detalhe estampado nos ombros; ao fundo, parede revestida de madeira com uma grande margarida branca decorativa e o reflexo das costas dela no espelho. Abaixo do post há 1 curtida, 1 comentário e um comentário da própria Adriana elogiando a aluna, com o texto cortado pela interface. No rodapé começa um segundo post de Simone no Mural das Autênticas (há 3 dias), parcialmente encoberto por um emoji/adesivo sobreposto, e o menu inferior do app: Mural, Blusa, Cursos, Criar, Ana IA, Mais.",
+          "texto_na_imagem": "15:48\n\n[topo do app] PÓE (logotipo) — ícones de busca, notificações (com marcador vermelho) e mensagens\n\nAVISO — \"Fundadora, apresente-se!\" — Postar →\n\nAbas: Feed | Grupos  (aba \"Feed\" selecionada)\n\n--- POST 1 ---\nSIMONE [sobrenome abreviado na tela]\nem Clube das Autênticas • há 22 horas\n\"Terminei sexta feira a minha primeira PÓE, e já foi estampada!\"\n[duas fotos]\nCurtidas: 1 | Comentários: 1 | (ícone de compartilhar)\n\nComentário:\nAdriana PÓE — há alguns segundos\n\"Simone, eu estou amando acompanhar a sua felicidade com essa blusa!!! 😂🥹🧡 E preciso elogiar de novo a…\" [texto truncado pela interface]\n\n--- POST 2 (parcialmente visível no rodapé) ---\nSIMONE [sobrenome abreviado na tela]\nem Mural das Autênticas • há 3 dias\n\"Mas volta lá rapidinho que ficou uma falha na latera[l]…\" [final da linha encoberto por um emoji/adesivo sobreposto]\n😂😂\n\nMenu inferior do app: Mural | Blusa | Cursos | Criar | Ana IA | Mais  (item \"Mural\" ativo, em laranja)",
+          "cuidados_do_arquivo": "Mostra o rosto e o primeiro nome de uma aluna real (Simone) em um espaço interno da comunidade; só envie com autorização de uso de imagem. Nada sensível sobre a pessoa — o conteúdo é positivo. O post na tela grafa a marca como \"Póe\"; a transcrição acima foi normalizada para PÓE. O comentário da Adriana está truncado pela interface (\"E preciso elogiar de novo a…\") e o segundo post está parcialmente encoberto por um emoji, então nenhum dos dois pode ser citado como frase completa. Por ser print de app, nomes de abas, grupos e itens de menu podem envelhecer se a interface mudar.",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "requer_autorizacao",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo06-depoimento-01.jpeg",
+          "sha256": "6a7a36e92532e07ea18fefce0f021671c681688ca98704b23380c90ec4720304"
         },
         {
           "arquivo": "imagem/ativo06-depoimento-02.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo06-depoimento-02.jpeg",
-          "bytes": 77795
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo06-depoimento-02.jpeg",
+          "bytes": 77795,
+          "descricao_visual": "Print de tela de uma conversa individual do WhatsApp em modo escuro (iPhone, relógio 18:11, contador \"8\" de conversas não lidas ao lado do botão voltar). No topo aparece o contato \"Carol\" (nome completo parcialmente cortado, seguido de \"Fundad…\"), com foto de perfil de uma mulher de cabelo castanho e os ícones de chamada de vídeo e de voz. O elemento que domina a tela é uma foto enviada na conversa: peças de tecido cru/off-white (algodão claro) apoiadas sobre uma colcha listrada em azul-marinho e branco — em cima, uma peça retangular fechada tipo tubo, com uma costura visível na lateral direita; embaixo, uma peça mais larga com um recorte curvo no centro, parecendo um exercício de cava ou decote. Abaixo da foto, na mesma bolha, a legenda \"Hoje finalmente consegui treinar com uns retalhos q tinha aqui\" (20:23), seguida de uma mensagem só com coração vermelho, da mensagem \"Vamos nessa / Amanhã tem mais\" (20:23), outro coração vermelho e, cortado na borda inferior, um sticker de menina de desenho com laço e corações. Todas as bolhas visíveis estão alinhadas à esquerda; no rodapé fica a barra de digitação com os ícones +, figurinha, câmera e microfone.",
+          "texto_na_imagem": "18:11\n8\nCarol [sobrenome omitido] Fundad…\n[foto: peças de tecido cru sobre colcha listrada azul e branca]\nHoje finalmente consegui treinar com uns retalhos q tinha aqui\n20:23\n❤️\nVamos nessa\nAmanhã tem mais\n20:23\n❤️\n[sticker parcialmente cortado: menina de desenho com laço amarelo e corações rosa]",
+          "cuidados_do_arquivo": "O print NÃO mostra nenhuma marca, logo ou menção à PÓE, à Adriana PÓE, ao Método PÓE ou à Blusa Dupla Face — nada na tela liga essa conversa ao produto. Use como prova social genérica de \"aluna treinando\", nunca como foto da Blusa Dupla Face pronta: as peças visíveis são exercícios em retalhos de algodão cru, não uma peça acabada. Não é possível confirmar pela imagem que a pessoa é Autêntica nem em qual produto ela está. O cabeçalho exibe o nome completo do contato (parcialmente cortado) — a IA deve se referir apenas a \"Carol\" e nunca repetir o sobrenome. Também não dá para determinar quem escreveu cada mensagem: todas as bolhas visíveis estão do mesmo lado (esquerda), então não afirme que \"a Adriana respondeu\" ou que \"a aluna disse X\".",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "requer_autorizacao",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo06-depoimento-02.jpeg",
+          "sha256": "d25c13c7f8c43d283d418e9b207d29d50d6860a5bcdf6cda6ddcba5573e0a624"
         },
         {
           "arquivo": "imagem/ativo06-depoimento-03.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo06-depoimento-03.jpeg",
-          "bytes": 94299
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo06-depoimento-03.jpeg",
+          "bytes": 94299,
+          "descricao_visual": "Print de tela de celular (WhatsApp, iOS, tema claro) de uma conversa em grupo chamada \"Fundadora | Método PÓE\", com uma mensagem de voz de 3:29 fixada no topo. O centro da tela é ocupado por um envio de duas fotos lado a lado feito por Cristina: à esquerda, uma selfie de uma mulher de cabelo curto castanho escuro, sorrindo, usando uma blusa branca com estampa floral em azul; à direita, um close do decote da mesma blusa, mostrando a gola azul-clara e um colar dourado com pingente de coração. Logo abaixo das fotos há um balão de reações (coração vermelho, mãos aplaudindo e coração azul) com contador 6, e em seguida uma mensagem de texto dela agradecendo pela \"primeira blusinha\". No rodapé aparece, cortado e parcialmente ilegível, o começo de outra mensagem assinada por Simone, e a barra de digitação padrão do WhatsApp com ícones de \"+\", figurinha, câmera e microfone.",
+          "texto_na_imagem": "17:43\n\n8\nFundadora | Método PÓE\n3 online\n\nMensagem de voz (3:29)\n\nHoje\n\nCristina [nome completo truncado na tela pelo próprio WhatsApp]\n[duas fotos]\n11:13\n\n❤️ 👏 💙 6\n\nBom diiiiia querida mestra . Amei minha primeira blusinha! Obrigada por todo carinho q se dedicou a nós Autênticas 😘 🌷🌿\n11:15\n\nSimone [linha cortada na borda inferior do print, parcialmente ilegível; termina com \"Fundadora\"]",
+          "cuidados_do_arquivo": "O print exibe nomes completos reais de duas alunas (o de Cristina no cabeçalho da mensagem, o de Simone cortado no rodapé) e a imagem do rosto de Cristina em close — confirmar autorização de uso de imagem antes de enviar para clientes. Não há conteúdo sensível de saúde, luto ou finanças. Atenção: a mensagem diz \"primeira blusinha\" e não nomeia o produto, então o arquivo não prova por si só que se trata da Blusa Dupla Face nem em qual produto ela estava; não afirme o produto se a cliente perguntar. A parte de baixo do print está cortada e parcialmente ilegível, então há conteúdo da conversa que não pode ser citado.",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "requer_autorizacao",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo06-depoimento-03.jpeg",
+          "sha256": "0cf39bdbcd658b5666674aaf205927bba1739d245acd5d49eb5da6510d2fa151"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Três prints de depoimento espontâneo: uma aluna comemorando a primeira peça no app, uma treinando com retalhos por WhatsApp, e outra mostrando a blusa pronta em grupo. Prova social real. ATENÇÃO: os prints NÃO estão anonimizados. Dois deles mostram nome completo na própria imagem e dois mostram rosto em close.",
+        "assunto": [
+          "depoimento_aluna",
+          "blusa_dupla_face",
+          "mural_da_comunidade",
+          "clube_das_autenticas",
+          "app_metodo_poe",
+          "prova_social",
+          "primeira_blusa_pronta",
+          "aluna_iniciante",
+          "print_whatsapp",
+          "treino_com_retalhos",
+          "resultado_de_aluna",
+          "iniciante_costura",
+          "peca_de_treino",
+          "primeira_blusa",
+          "grupo_whatsapp",
+          "comunidade",
+          "autenticas"
+        ],
+        "responde": [
+          "as alunas conseguem mesmo terminar a blusa?",
+          "o que as Autênticas dizem depois de costurar a primeira blusa?",
+          "como é o mural da comunidade dentro do app?",
+          "a Adriana PÓE responde as alunas no app?",
+          "tem aluna da minha idade fazendo o curso?",
+          "tem depoimento de aluna?",
+          "alguém que estava começando conseguiu costurar mesmo?",
+          "dá pra treinar com retalho que eu já tenho em casa?",
+          "preciso comprar tecido novo pra começar a praticar?",
+          "como é o resultado de quem está no começo?",
+          "tem depoimento de quem já fez?",
+          "as alunas conseguem terminar a blusa mesmo?",
+          "como fica a blusa pronta na aluna?",
+          "como é o grupo das Autênticas?",
+          "quem é iniciante consegue fazer a primeira blusa?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?"
+        ],
+        "fallback_texto": "O que mais me emociona é ver as Autênticas terminando a primeira peça e vindo contar. Tem aluna que manda foto no mesmo dia, tem quem comece treinando em retalho que já tinha em casa. É esse caminho que eu quero fazer com você.",
+        "cuidados_ia": "Envie UM print por vez, o que responde ao momento. A regra do primeiro nome vale para o que VOCÊ escreve; ela não anonimiza a imagem, que mostra nome completo e rosto. Só envie item com autorizacao_de_imagem = \"confirmada\": item \"pendente\" é proibido enviar, use o fallback_texto. O print do treino em retalhos não menciona a PÓE em lugar nenhum e mostra exercício, não peça pronta: não o apresente como resultado do curso nem como a Blusa Dupla Face. Este ativo NÃO é apresentação da peça: para \"quero ver a blusa\" o ativo é o ativo04.",
+        "catalogado_em": "2026-09-05",
+        "revisar_em": "2026-12-07",
+        "motivo_revisao": "Captura interface de app, data relativa ou página externa: envelhece."
+      }
     },
     {
       "id": "ativo07",
@@ -175,7 +429,42 @@
       "quando_usar": "Prova Social (6.4), reaproveitado nas objeções 7.8 (tenho medo) e 7.11 (tenho vergonha).",
       "disponivel": false,
       "motivo_indisponivel": "Não produzido — captação UGC pendente (nunca roteirizado; só perguntas-guia)",
-      "itens": []
+      "itens": [],
+      "conteudo": {
+        "resumo": "Vídeo com depoimentos de alunas. NÃO EXISTE: nunca foi captado nem roteirizado.",
+        "assunto": [
+          "depoimentos_de_alunas",
+          "prova_social",
+          "resultados_de_autenticas",
+          "video_ugc_pendente",
+          "ativo_indisponivel",
+          "quebra_de_objecao_funciona_mesmo",
+          "historias_de_alunas"
+        ],
+        "responde": [
+          "tem depoimento de quem já fez o curso?",
+          "quero ver o que as alunas falam da PÓE",
+          "isso funciona mesmo? alguém já teve resultado?",
+          "vocês têm prova de que dá certo?",
+          "tem vídeo de aluna contando a experiência?",
+          "quem já comprou aprovou?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa dupla face",
+          "quanto custa o Desafio de 7 Dias",
+          "que tecido eu compro para começar",
+          "quero conhecer a história da Adriana PÓE",
+          "como faço para entrar no Clube das Autênticas",
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "O que eu mais vejo é mulher que chega achando que não vai dar conta e termina a primeira peça surpresa com o que fez. Se você quiser, eu te mostro o que as Autênticas estão postando lá na comunidade.",
+        "cuidados_ia": "Não existe. Quando pedirem prova social em vídeo, ofereça os prints do ativo06 ou do ativo08. Nunca invente depoimento nem atribua fala a aluna nenhuma.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo08",
@@ -197,30 +486,128 @@
       "itens": [
         {
           "arquivo": "imagem/ativo08-comunidade-01.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-01.jpeg",
-          "bytes": 82976
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo08-comunidade-01.jpeg",
+          "bytes": 82976,
+          "descricao_visual": "Print de tela de celular (18:37) do aplicativo do Método PÓE, mostrando a página de perfil de uma aluna dentro da comunidade. No topo há uma faixa de aviso laranja claro com o selo \"AVISO\", um emoji de borboleta azul e a chamada \"Fundadora, apresente-se!\", com o botão \"Postar →\" à direita. Abaixo aparece a foto de perfil circular de uma mulher de cabelo castanho e óculos, sorrindo, com um pequeno ícone de selo dourado sobreposto na borda da foto; ao lado, o nome em maiúsculas (aparece cortado na tela) e a localização \"Florianópolis, SC\". Seguem o botão laranja \"Seguir\", ícone de mensagem, menu \"...\", os contadores \"0 SEGUIDORES · 3 SEGUINDO\" e \"MEMBRO DESDE JUL. DE 2026\", além de uma bio pessoal em itálico. A parte central da tela é ocupada pela gamificação: a seção \"SELOS 6\" com seis ícones ilustrados nomeados, e a seção \"CONQUISTAS 7\" com medalhas em formato de joia (azul, laranja, roxa) etiquetadas por raridade (\"RARO\", \"INCOMUM\"), cujos nomes aparecem cortados pela borda inferior. No rodapé, a barra de navegação do app com seis itens: Mural (ativo, em laranja), Blusa, Cursos, Criar, Ana IA e Mais.",
+          "texto_na_imagem": "18:37\n\nAVISO — 🦋 Fundadora, apresente-se! — Postar →\n\nSIMONE [sobrenome omitido por privacidade]\n📍 Florianópolis, SC\n\nSeguir\n\n0 SEGUIDORES · 3 SEGUINDO ·\nMEMBRO DESDE JUL. DE 2026\n\n\"66 anos, arquiteta aposentada (43 anos de autônoma não é pra qualquer um), casada com um homem maravilhoso, 4 filhos (2 meus 2 dele), 4 netos (todos nossos).\"\n\nSELOS 6\n- Fundadora\n- Autêntica VIP\n- Costureira Ativada\n- Primeiro Voo\n- Abrindo as Asas\n- Despertar Autêntico\n\nCONQUISTAS 7\n- RARO — \"Discípula da ...\" (nome cortado pela borda da tela, ilegível)\n- INCOMUM — \"Guardiã da ...\" (nome cortado pela borda da tela, ilegível)\n- INCOMUM — \"Discípula da ...\" (nome cortado pela borda da tela, ilegível)\n- \"Presença Autêntica\" (sem etiqueta de raridade visível; card parcialmente cortado à direita)\nObs.: o contador indica 7 conquistas, mas apenas 4 estão visíveis no print.\n\nBarra de navegação inferior: Mural | Blusa | Cursos | Criar | Ana IA | Mais",
+          "cuidados_do_arquivo": "Expõe dados pessoais de uma aluna real: rosto em foto de perfil, cidade (Florianópolis, SC), idade (66 anos), profissão e composição familiar (marido, 4 filhos, 4 netos). Nada aqui é sensível no sentido de luto, doença, dificuldade financeira ou conflito familiar, mas ainda assim é perfil de pessoa real — ao citar, use apenas \"Simone\" e evite repetir a bio inteira. Dois pontos podem enfraquecer o uso como prova social: o perfil mostra \"0 SEGUIDORES\" e \"MEMBRO DESDE JUL. DE 2026\", ou seja, é uma conta recente e sem seguidores, o que contradiz uma fala de \"comunidade fervilhando\"; e o print mostra apenas 4 das 7 conquistas, com os nomes cortados. A IA não deve afirmar os nomes completos das conquistas (\"Discípula da...\", \"Guardiã da...\") porque estão ilegíveis. A data \"JUL. DE 2026\" pode envelhecer rápido em conversas futuras.",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "requer_autorizacao",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-01.jpeg",
+          "sha256": "ce9a2b029b6dcab9ef7a2ac5a4e866c1dc56bbd8019f303cb83a379bef73ae63"
         },
         {
           "arquivo": "imagem/ativo08-comunidade-02.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-02.jpeg",
-          "bytes": 106243
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo08-comunidade-02.jpeg",
+          "bytes": 106243,
+          "descricao_visual": "Print de celular (18:15) do aplicativo do Método PÓE, na tela do Mural da comunidade, aba \"Feed\" selecionada (ao lado da aba \"Grupos\"). No topo há uma barra branca com o logotipo circular laranja da PÓE, ícone de busca, sino de notificações com bolinha vermelha e ícone de mensagens; logo abaixo, uma faixa de \"AVISO\" convidando a fundadora a se apresentar, com o botão \"Postar\". O corpo mostra dois posts completos de Autênticas se apresentando: o primeiro de Tânia, com foto de perfil de duas pessoas, um texto longo e emocional; o segundo de Amanda, publicado em \"Mural das Autênticas\". Cada post traz contador de curtidas (coração com 2), miniaturas de quem reagiu, 1 comentário e ícone de compartilhar. Um terceiro post começa a aparecer cortado no rodapé, assinado por Adriana PÓE. Na base da tela fica a barra de navegação do app com seis itens e, sobre ela, um botão circular azul em forma de anel (assistente flutuante). O foco visual é a conversa entre alunas, não a peça de roupa.",
+          "texto_na_imagem": "18:15\n\n[cabeçalho] PÓE | ícone de busca | ícone de sino (com notificação) | ícone de mensagem\n\nAVISO — 👋 Fundadora, apresente-se!    Postar →\n\nFeed | Grupos\n\nTânia\nhá 14 dias\n\"Me chamo Tânia Mara, meu marido faleceu recentemente e eu estou sem chão!! Eu sempre amei os looks da PÓE, mas por vários motivos não consegui comprar uma peçinha sequer...\nNunca imaginei na minha vida que teria essa oportunidade, eu amo costurar\nmas nunca fiz uma peça até pq não sei então me limito a remendos, reparos e bainhas das roupas de casa. Minha esperança sair dessa dor que me rasga o peito e quem sabe, não conseguir produzir os looks dos meus sonhos?!\"\n❤ 2 | 💬 1 | compartilhar\n\nAmanda\nem Mural das Autênticas • há 14 dias\n\"Sou uma professora de inglês muito estilosa, graças à influência da minha irmã diva e maravilhosa, Adriana PÓE! Super empolgada pra entrar nesta nova aventura que ela preparou para nós!\"\n❤ 2 | 💬 1 | compartilhar\n\nAdriana PÓE [post cortado na base da tela, texto ilegível]\n\n[barra de navegação inferior] Mural | Blusa | Cursos | Criar | Ana IA | Mais",
+          "cuidados_do_arquivo": "CONTEÚDO SENSÍVEL: o post da Tânia expõe luto recente (falecimento do marido, \"sem chão\", \"dor que me rasga o peito\") e dificuldade financeira (\"não consegui comprar uma peçinha sequer\"). Não use este print como prova social genérica nem cite o caso dela em conversa comercial; se a cliente perguntar sobre a comunidade, prefira outro ativo do conjunto ativo08. A tela original mostra nomes completos das alunas — nunca repita sobrenomes ao descrever ou comentar a imagem. Na tela o nome da marca aparece grafado como \"POE\"/\"Póe\" (sem a acentuação padronizada), então a transcrição acima já foi normalizada para PÓE. O terceiro post, de Adriana PÓE, está cortado e ilegível. O print mostra tela interna do app, ou seja, área de aluna: não prometa acesso ao Mural antes da compra.",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "bloqueado",
+          "motivo_bloqueio": "Expõe luto recente e dificuldade financeira de aluna identificada. Não enviar, não citar, não parafrasear.",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-02.jpeg",
+          "sha256": "6d78f5f6180589affb4da5e9436256564dd2afe2fd23773528be8c1c904aefc8"
         },
         {
           "arquivo": "imagem/ativo08-comunidade-03.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-03.jpeg",
-          "bytes": 101217
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo08-comunidade-03.jpeg",
+          "bytes": 101217,
+          "descricao_visual": "Print de tela de celular (iPhone, 18:15) mostrando o feed do Mural das Autênticas dentro do app do Método PÓE. No topo aparece o logotipo circular laranja \"PÓE\" com ícones de busca, sino de notificação (com bolinha vermelha de alerta) e balão de conversa; logo abaixo, uma faixa de AVISO com emoji de borboleta azul convidando \"Fundadora, apresente-se!\" e o botão laranja \"Postar\". Duas abas dividem a tela, Feed (selecionada, sublinhada em laranja) e Grupos. O corpo mostra três posts de apresentação de alunas reais, cada um com avatar (dois com iniciais em cinza, um com foto), nome, marcação \"em Mural das Autênticas · há 12 dias\", texto de apresentação e barra de reações com coração, comentários e compartilhar. O terceiro post está cortado no meio da frase pela borda inferior da tela, e há um círculo azul desenhado por cima (marcação de toque ou anotação) que encobre parcialmente as palavras \"máquina de\" e \"graduação\". Na base fica a barra de navegação com seis itens: Mural, Blusa, Cursos, Criar, Ana IA e Mais.",
+          "texto_na_imagem": "18:15\n\nPÓE\n\nAVISO — 🦋 Fundadora, apresente-se! — Postar →\n\nAbas: Feed | Grupos\n\nPOST 1\nRossana\nhá 12 dias\n\"Eu sou a Rossana sou Gastrônoma adoro artesanato e costura também não tenho prática nenhuma, mas já fiz uma jardineira de festa junina rsrs\"\nReações: ❤ 1 · Você curtiu · 💬 1 · compartilhar\n\nPOST 2\nValery\nem Mural das Autênticas · há 12 dias\n\"Eu sou Valéria Nutricionista, minha mãe é costureira e eu sempre estava catando retalhos para fazer roupa para minhas bonecas, e hoje eu quero costurar para ela. Comprei minha 1º máquina com ela na loja, ela me ajudou a escolher!\"\nReações: ❤ 3 · 💬 1 · compartilhar\n\nPOST 3 (cortado pela borda inferior da tela)\nFábia\nem Mural das Autênticas · há 12 dias\n\"Me chamo Fábia. Conheci a PÓE já perto do fim. Mas adquiri umas peças na promoção ☺. Minha máquina de costura veio de uma necessidade da minha graduação. Precisei fazer saquinhos de voal para ensacar flores. E\" — o restante do post está cortado e ilegível. As palavras \"máquina de\" e \"graduação\" estão parcialmente encobertas por um círculo azul desenhado sobre a tela.\n\nMenu inferior: Mural | Blusa | Cursos | Criar | Ana IA | Mais",
+          "cuidados_do_arquivo": "O print original exibe o NOME COMPLETO (nome e sobrenome) das três alunas e a foto de rosto de uma delas — ao enviar este arquivo para uma cliente, esses dados ficam visíveis, então trate como exposição de terceiros e evite repetir sobrenomes em texto. O terceiro post está cortado no meio da frase e um círculo azul cobre parte das palavras: não afirme o que ela dizia depois de \"Precisei fazer saquinhos de voal para ensacar flores. E\". O mesmo post contém a frase \"Conheci a PÓE já perto do fim. Mas adquiri umas peças na promoção\", que se refere ao encerramento da venda de roupas prontas e pode gerar pergunta sobre promoções ou peças à venda que não existem mais — não prometa promoção nem venda de peças. Os posts estão marcados como \"há 12 dias\", data relativa que envelhece; não cite prazo. Este ativo mostra o mural da comunidade, NÃO mostra a Blusa Dupla Face — não use para responder \"quero ver a blusa\".",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "requer_autorizacao",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-03.jpeg",
+          "sha256": "a6550d53c2065b7e2d4fdc191defeb30d5fc880e22089d57fd22780717736f0f"
         },
         {
           "arquivo": "imagem/ativo08-comunidade-04.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-04.jpeg",
-          "bytes": 76782
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo08-comunidade-04.jpeg",
+          "bytes": 76782,
+          "descricao_visual": "Print de celular (iOS, 18:16) da tela Mural do aplicativo do Método PÓE, com a aba \"Feed\" selecionada. No topo há o logotipo circular laranja da PÓE, ícones de busca, notificações (com bolinha vermelha) e mensagens, e abaixo uma faixa de AVISO com o chamado \"Fundadora, apresente-se!\" e o botão \"Postar\". O post exibido é da aluna Cristina, publicado no \"Mural das Autênticas\" há 17 dias, em que ela se apresenta, conta que conhece a marca PÓE há uns 2 anos e que já tem algumas peças. Anexada ao post há uma foto de um casal em pé diante de uma parede clara: ela usa um vestido azul-marinho de manga curta com gola/decote em azul-claro, cinto bege largo e colar comprido com pingente redondo; ele veste camisa social vinho de manga longa e calça escura, com o braço sobre o ombro dela. Sobre a imagem há a barra \"Ver mais\" e um botão circular flutuante azul-turquesa; na base da tela aparece a barra de navegação do app.",
+          "texto_na_imagem": "18:16\n\nPÓE\n[ícones: busca, notificações com alerta, mensagens]\n\nAVISO — Fundadora, apresente-se!    Postar →\n\nFeed        Grupos\n\nCristina\nem Mural das Autênticas • há 17 dias\n\nOi me chamou Cristina, conheci a marca PÓE tem uns 2 anos, tenho algumas peças, amei conhecer, e amei o conceito das pessoas.\n\neditado há 13 dias\n\nVer mais\n\n[barra inferior de navegação] Mural | Blusa | Cursos | Criar | Ana IA | Mais\n\n[linha de reações parcialmente cortada na base do post: emoji de coração, miniaturas de fotos de perfil e um item de comentário — ilegível]",
+          "cuidados_do_arquivo": "A tela mostra o rosto de uma pessoa real (Cristina) e de um acompanhante não identificado; use somente o primeiro nome ao falar do post. Atenção ao conteúdo: Cristina se apresenta como cliente que já tem peças da marca há uns 2 anos, e não como aluna que costurou a Blusa Dupla Face — não use este print como prova de resultado de costura nem como depoimento de curso. A peça azul da foto é uma roupa da marca, não a Blusa Dupla Face. O texto do post tem erro de digitação no original (\"me chamou\" em vez de \"me chamo\"). As marcações de tempo são relativas (\"há 17 dias\", \"editado há 13 dias\") e envelhecem; não cite datas absolutas. A linha de reações está cortada na base e é ilegível — não afirme número de curtidas ou comentários.",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "requer_autorizacao",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-04.jpeg",
+          "sha256": "6708cb1d181894a5b8e36324e08f88b18d9979aa4538f925b1b4acfb8592d0da"
         },
         {
           "arquivo": "imagem/ativo08-comunidade-05.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-05.jpeg",
-          "bytes": 112304
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo08-comunidade-05.jpeg",
+          "bytes": 112304,
+          "descricao_visual": "Print de celular (18:15) da tela \"Mural\" do aplicativo do Método PÓE, na aba \"Feed\". No topo há o logotipo circular vermelho/laranja da PÓE, ícones de busca, sino de notificação com bolinha vermelha e balão de mensagem, e logo abaixo uma faixa de AVISO com o chamado \"Fundadora, apresente-se!\" e o botão \"Postar\". O feed mostra dois posts do \"Mural das Autênticas\", ambos de \"há 10 dias\". O primeiro é um depoimento de apresentação de Elisangela (foto de perfil de mulher loira de óculos, com um selo dourado no canto do avatar), texto cortado por \"... Ver mais\", com 3 curtidas, 1 comentário e ícone de compartilhar. O segundo post é de Simone, com a legenda \"Meu selo!!!\" e uma imagem em tons de rosa e dourado, muito ornamentada, com coroa, arabescos e faixa: um certificado de conquista do selo \"FUNDADORA\" — a arte aparece cortada na parte de baixo pelo fim da tela. Sobre a imagem, no canto direito, há uma marca d'água circular azul e branca. No rodapé fica o menu do app com seis itens.",
+          "texto_na_imagem": "18:15\n\n[topo] PÓE (logotipo) | ícone de busca | ícone de sino com notificação | ícone de balão de mensagem\n\nAVISO — Fundadora, apresente-se!    Postar →\n\n[abas] Feed | Grupos\n\nElisangela\nem Mural das Autênticas • há 10 dias\n\"Sou química, já conheço a PÓE desde o início e sempre achei as roupas maravilhosas. Não sou uma costureira experiente, tenho muito o que aprender ainda. Comecei na costura criativa durante a pandemia e me apaixonei . Agora quero algo novo e estou vindo com muita expecta\"\n... Ver mais\n[reações] 3 curtidas • 1 comentário • compartilhar\n\nSIMONE (nome exibido em caixa alta, sobrenome abreviado)\nem Mural das Autênticas • há 10 dias\n\"Meu selo!!!\"\n\n[imagem do selo]\nPARABÉNS!\nVOCÊ ACABA DE CONQUISTAR\nO SELO\nFUNDADORA\n(o restante da arte está cortado pelo fim da tela)\n\n[menu inferior] Mural | Blusa | Cursos | Criar | Ana IA | Mais",
+          "cuidados_do_arquivo": "Contém nomes e fotos de alunas reais (Elisangela e Simone) — o print expõe pessoas identificáveis para quem receber o arquivo; use só o primeiro nome ao comentar. Nada de saúde, luto ou dificuldade financeira aparece: a única menção pessoal é \"comecei na costura criativa durante a pandemia\", que é contexto profissional. O texto do primeiro post está truncado em \"... Ver mais\" e a arte do selo está cortada no rodapé, então não afirme o que vem depois. O selo \"FUNDADORA\" e o aviso \"Fundadora, apresente-se!\" sugerem uma turma inicial específica — pode envelhecer e não deve ser prometido como disponível para toda cliente nova sem confirmação. O menu mostra um item \"Ana IA\" dentro do app; não descreva essa função sem informação confirmada.",
+          "autorizacao_de_imagem": "pendente",
+          "envio": "requer_autorizacao",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo08-comunidade-05.jpeg",
+          "sha256": "40628b1263a26c5aabb8381b7fdf32b8e8b9b35ee3b71394f78a0d6879761d92"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Cinco prints do Mural das Autênticas e de um perfil dentro do app, mostrando alunas se apresentando, o sistema de selos e conquistas, e a interface da comunidade. Serve para mostrar como é o app e quem já está lá dentro.",
+        "assunto": [
+          "app_metodo_poe",
+          "perfil_aluna",
+          "selos_conquistas",
+          "mural_comunidade",
+          "comunidade_autenticas",
+          "prova_social",
+          "gamificacao",
+          "depoimento_aluna",
+          "comunidade",
+          "mural_da_comunidade",
+          "autenticas",
+          "interface_app",
+          "iniciante_sem_experiencia",
+          "mural_das_autenticas",
+          "apresentacao_aluna",
+          "iniciante_costura",
+          "maquina_costura",
+          "feed_do_app",
+          "selo_fundadora",
+          "conquistas",
+          "aluna_iniciante"
+        ],
+        "responde": [
+          "como é o aplicativo do Método PÓE por dentro?",
+          "o que são os selos e as conquistas que vocês falam?",
+          "tem comunidade das Autênticas? como ela funciona?",
+          "quem são as alunas que já estão lá dentro?",
+          "o que aparece no meu perfil dentro do app?",
+          "como é a comunidade das Autênticas?",
+          "o que tem dentro do app do Método PÓE?",
+          "tem um lugar para conversar com outras alunas?",
+          "serve para quem nunca costurou uma peça do zero?",
+          "quem são as pessoas que já estão no curso?",
+          "o que as alunas postam no mural do app?",
+          "tem gente iniciante que nunca costurou na turma?",
+          "como é por dentro o aplicativo do Método PÓE?",
+          "quem são as outras alunas, sou a única sem experiência?",
+          "como é a comunidade do Método PÓE?",
+          "o que é o Mural das Autênticas?",
+          "as alunas realmente postam e interagem no app?",
+          "como é o aplicativo por dentro?",
+          "o app tem feed e grupos?",
+          "o que são os selos e conquistas do aplicativo?",
+          "serve pra quem nunca costurou ou só pra quem já costura?",
+          "tem gente interagindo mesmo no app?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Dentro do app tem o Mural das Autênticas, onde as alunas se apresentam, postam as peças e comemoram cada conquista. Cada etapa que você conclui destrava um selo no seu perfil. Tem mulher de todo tipo de história lá: arquiteta, professora, nutricionista, gente que nunca costurou nada.",
+        "cuidados_ia": "Envie UM print por vez. PROIBIDO o arquivo \"imagem/ativo08-comunidade-02.jpeg\" (envio: bloqueado): ele expõe luto recente e dificuldade financeira de uma aluna identificada. Não envie, e também NÃO cite, resuma nem parafraseie nada do que está nele, em nenhuma conversa. O print da Cristina é de cliente antiga que comprou peças da marca, não de aluna que costurou: não use como prova de resultado. Um dos perfis mostra \"0 seguidores\" e conta recente: não o use para sustentar que a comunidade é grande. Nos demais, só envie com autorizacao_de_imagem = \"confirmada\", e cite as alunas apenas pelo primeiro nome.",
+        "catalogado_em": "2026-09-05",
+        "revisar_em": "2026-12-07",
+        "motivo_revisao": "Captura interface de app, data relativa ou página externa: envelhece."
+      }
     },
     {
       "id": "ativo09",
@@ -236,11 +623,50 @@
       "itens": [
         {
           "arquivo": "video/ativo09-pre-conversao.mp4",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo09-pre-conversao.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/video/ativo09-pre-conversao.mp4",
           "bytes": 7947691,
-          "duracao_s": 128.7
+          "duracao_s": 128.7,
+          "descricao_visual": "Vídeo vertical de celular em que Adriana aparece sozinha, em close do peito para cima, falando direto para a câmera e gesticulando com as duas mãos na altura do peito. Ela está de cabelo loiro ondulado solto, blusa de manga curta com decote em V estampada em fundo escuro com manchas laranja, terracota e creme, e um colar dourado fino com pingente de borboleta. O cenário é o mesmo nos três frames legíveis: painel de folhagem verde artificial atrás dela, com borboletas brancas decorativas penduradas, e uma parede/porta clara à esquerda; não há corte de cenário. Sobre a imagem há legenda dinâmica palavra a palavra, em caixa alta branca com contorno escuro, centralizada na parte de baixo — nos frames aparecem \"ELA\", \"MULHER\" e \"COMEMORAR\". Não há nenhuma peça de roupa costurada, tecido, máquina ou tela de computador em cena: o vídeo é só Adriana falando. Os três quadros da linha de baixo do contact sheet estão totalmente pretos, sem imagem legível.",
+          "texto_na_imagem": "ELA\nMULHER\nCOMEMORAR",
+          "cuidados_do_arquivo": "Este vídeo NÃO mostra a Blusa Dupla Face nem qualquer peça costurada, tecido ou máquina — é apenas Adriana falando. Não envie quando a cliente pedir \"quero ver a blusa\" ou pedir foto de peça pronta; ele serve para explicar o porquê da Escalada da Costura, não para mostrar produto. O conteúdo é motivacional e emocional (fala sobre a mulher descobrir algo dentro de si), sem preço, sem link e sem descrição técnica — se a cliente estiver perguntando valor, materiais ou prazo, ele não responde. A blusa estampada que Adriana veste em cena é roupa dela, não é a peça do desafio; não a apresente como resultado do curso. Os três quadros inferiores do contact sheet estão pretos, então não há informação visual sobre o trecho final do vídeo.",
+          "transcricao": "Antes da gente continuar, eu queria abrir o meu coração pra você. Sabe por que escolhi começar justamente pela Blusa Dupla Face? Porque nunca foi só pela blusa em si, mas pelo que ela representa. É a sua primeira vitória dentro da Escalada da Costura. Isso por si só já é incrível. E eu já vi muitas mulheres finalizarem essa peça. E sabe de uma coisa que é muito interessante? Essas mulheres nunca comemoram só porque elas fizeram a blusa. Elas comemoram porque de repente elas descobriram que tinha uma mulher escondida dentro delas. Sabe que mulher é essa? Uma mulher mais criativa, determinada, uma mulher que começa e termina, que sonha e realiza. E eu queria te fazer uma pergunta. Você já pensou que talvez essa mulher esteja esperando você lá do outro lado, vestindo a sua primeira peça PÓE? Porque eu acredito de verdade que ela tá lá. E eu quero ter a alegria de acompanhar o nascimento dessa nova mulher, de comemorar essa primeira vitória com você. Eu acredito tanto que ela pode mudar muito mais do que você imagina. Vamos trazer pra fora juntas essa mulher? Então, vamos lá!",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo09-pre-conversao.mp4",
+          "sha256": "f4a59d8070be81df8f49ada823dda394733c560f51383dad6c6c977ad50264a3"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Vídeo de 2min08, só a Adriana falando, sobre por que a Escalada começa pela Blusa Dupla Face: a peça é a primeira vitória, e o que as mulheres comemoram não é a blusa, é descobrir do que são capazes. É emocional, de uso único, imediatamente antes da conversão.",
+        "assunto": [
+          "escalada_da_costura",
+          "blusa_dupla_face",
+          "motivacao",
+          "primeira_vitoria",
+          "video_adriana",
+          "autoestima"
+        ],
+        "responde": [
+          "por que começar pela Blusa Dupla Face?",
+          "o que é a Escalada da Costura?",
+          "por que vale a pena aprender a costurar?",
+          "o que eu ganho além da peça pronta?"
+        ],
+        "nao_serve_para": [
+          "quem é a Adriana PÓE?",
+          "quero ver a blusa",
+          "quanto custa",
+          "que tecido eu compro",
+          "minha máquina serve?",
+          "que tecido eu compro?",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Sabe por que eu escolhi começar pela Blusa Dupla Face? Nunca foi pela blusa em si, foi pelo que ela representa: a sua primeira vitória dentro da Escalada. Eu já vi muitas mulheres terminarem essa peça, e elas nunca comemoram só a blusa. Elas comemoram porque descobriram uma mulher criativa e determinada escondida dentro delas.",
+        "cuidados_ia": "Uso único por conversa, sempre a última mensagem antes da oferta. Não mostra a peça, só a Adriana falando: não use para \"quero ver a blusa\". Não traz preço, material nem prazo.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo10",
@@ -254,16 +680,52 @@
       "agente": [
         "vendas"
       ],
-      "quando_usar": "Objeções 7.2 (não tenho máquina) e 7.3 (minha máquina é simples). Mostra o teste com maquininha a partir de 138 reais.",
+      "quando_usar": "Objeções 7.2 (não tenho máquina) e 7.3 (minha máquina é simples). A Adriana mostra a máquina doméstica barata que comprou e com a qual fez a primeira peça, com bom acabamento. NÃO cite valor de máquina: o número que aparece no vídeo é preço de terceiro, de uma compra pontual, e envelhece.",
       "disponivel": true,
       "itens": [
         {
           "arquivo": "video/ativo10-teste-maquina-simples.mp4",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo10-teste-maquina-simples.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/video/ativo10-teste-maquina-simples.mp4",
           "bytes": 5709351,
-          "duracao_s": 27.2
+          "duracao_s": 27.2,
+          "descricao_visual": "Vídeo vertical (formato de celular/Reels) em que Adriana aparece sentada a uma mesa clara num estúdio, falando direto para a câmera e gesticulando, com uma máquina de costura portátil pequena em primeiro plano sobre a mesa — corpo branco com detalhes em lilás, seletor de pontos redondo, alça de transporte e uma etiqueta de marca minúscula na base que fica ilegível nesta resolução. Ela veste uma blusa bege/nude de manga curta e ao fundo há um painel claro com o logotipo circular iluminado \"PÓE\", luminárias douradas verticais, uma poltrona bege e um manequim de madeira em miniatura. O terceiro frame corta para um plano de cima: uma blusa rosa claro estendida sobre uma superfície clara, com a gola/vista em tecido bege contrastante (a face oposta da peça), caimento amplo e manga curta tipo japonesa; uma mão de unhas compridas entra pela borda esquerda e há um raminho verde e um porta-retrato/moldura dourada na cena. Depois desse frame a gravação volta ao cenário da mesa com a máquina, que se mantém até o fim. O vídeo tem legenda queimada em branco, no rodapé, aparecendo palavra por palavra: \"150,00 REAIS\", \"foi\", \"vamo falar\", \"pra\", \"você adquirir\", \"fazer\".",
+          "texto_na_imagem": "PÓE (logotipo circular iluminado no painel de fundo, presente em 5 dos 6 frames)\nLegendas queimadas, em ordem cronológica:\n150,00 REAIS\nfoi\nvamo falar\npra\nvocê adquirir\nfazer\nHá uma etiqueta de marca impressa na base da máquina de costura, mas ela está ilegível nesta resolução.",
+          "cuidados_do_arquivo": "O áudio promete explicitamente \"estou deixando o link dessa maravilhosa para você adquirir\" — se a IA enviar este vídeo sem ter o link da máquina em mãos, a cliente vai cobrar o link e a conversa quebra. Só envie junto com o link, ou avise que a indicação está na bio/no material. Além disso, o valor citado (R$150,00, \"menos 15\") envelhece rápido e é preço de terceiro, não da PÓE: não repita esse número como preço garantido. A recomendação é de uma máquina de outra marca, cuja identificação não é legível no vídeo — não afirme o modelo.",
+          "transcricao": "150 reais, menos 15 foi o que eu paguei nessa máquina. Essa miudeza foi capaz de fazer a primeira peça, e ficou um acabamento maravilhoso. Vamos falar sério? A máquina não vai ser um impedimento para você costurar a sua primeira peça, para destravar a costureira que está em você. Estou deixando o link dessa maravilhosa para você adquirir não só a primeira blusa, mas eu tenho certeza que todos os pilares da escalada você vai conseguir fazer. Vamos começar? Vamos costurar?",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo10-teste-maquina-simples.mp4",
+          "sha256": "b775e546807384362dcf12cfecf07948f37edb39e253b5a8748767ba51ef6858"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Vídeo de 27s em que a Adriana mostra uma máquina doméstica muito barata que ela comprou e usou para fazer a primeira peça, com bom acabamento. Existe para derrubar a objeção de equipamento.",
+        "assunto": [
+          "maquina_costura",
+          "maquina_basica",
+          "equipamento_iniciante",
+          "blusa_dupla_face",
+          "quebra_objecao",
+          "link_maquina",
+          "prova_de_resultado"
+        ],
+        "responde": [
+          "minha máquina de costura serve para fazer a Blusa Dupla Face?",
+          "preciso de uma máquina profissional ou cara para começar?",
+          "qual máquina a Adriana usa e recomenda?",
+          "quanto custa a máquina que ela mostra?",
+          "dá para ter bom acabamento com máquina simples?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "tem foto da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "A máquina não vai ser o impedimento. Eu fiz uma primeira peça inteira numa máquina doméstica bem simples e o acabamento ficou lindo. Para a PRIMEIRA blusa, uma máquina que faça só ponto reto já dá conta: você consegue fazer a peça inteira. O zigue-zague não é requisito para começar, mas é o ponto que vai fazer falta para continuar: sem ele você trava no acabamento das próximas peças da Escalada. Então: dá para começar com o que você tem, e o zigue-zague entra como o próximo passo natural quando você for trocar ou comprar máquina.",
+        "cuidados_ia": "ATENÇÃO: no vídeo a Adriana diz \"estou deixando o link dessa maravilhosa para você adquirir\", e esse link NÃO está cadastrado aqui. Se enviar e ela pedir o link, não invente: diga que vai providenciar. NUNCA cite valor de máquina, nem o do áudio, nem o da legenda, nem piso de marketplace: é preço de terceiro e envelhece. Sobre o ponto da máquina, a resposta correta é em DOIS tempos: reta basta para a primeira blusa, zigue-zague é necessário para progredir na Escalada. Nunca diga só \"zigue-zague não é necessário\" (deixa a cliente comprar errado) nem só \"precisa de zigue-zague\" (mata a venda de quem já tem reta).",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo11",
@@ -282,11 +744,50 @@
       "itens": [
         {
           "arquivo": "video/ativo11-trilha-empreendedoras.mp4",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo11-trilha-empreendedoras.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/video/ativo11-trilha-empreendedoras.mp4",
           "bytes": 12628305,
-          "duracao_s": 102.7
+          "duracao_s": 102.7,
+          "descricao_visual": "Vídeo vertical gravado em celular, no formato stories, montado como uma sequência de bastidores da operação antiga da PÓE — em nenhum dos seis frames aparece a Adriana falando para a câmera, e não há tela de computador. Sobre as imagens corre uma legenda automática que surge palavra por palavra, em branco com contorno preto, no rodapé de cada frame (\"aprender\", \"ele\", \"aprender\", um fragmento ilegível, \"sonha\", \"você\"). Na ordem cronológica: (1) loja/depósito de tecidos com prateleiras metálicas cheias de rolos coloridos, três mulheres ao fundo manuseando pacotes brancos e, em primeiro plano, uma mesa com pilhas de embalagens plásticas azul-claras; (2) gravação de tela de um story do Instagram datado de 25 de dezembro de 2020, em que duas mulheres de máscara posam diante de uma arara de roupas estampadas — a da esquerda de vestido verde-esmeralda com cinto marrom, a da direita loira, de quimono floral vermelho sobre vestido florido — com corações vermelhos flutuando na lateral; (3) prateleira de cones de linha em rosa, magenta, vermelho e roxo sobre um balcão coberto de sacolas kraft impressas com o logotipo PÓE e um desenho de pássaro, ao lado de uma parede com frases manuscritas. Nos três últimos frames: (4) mesa de expedição com envelopes de correio empilhados, etiquetas brancas e lacres vermelhos, com as mãos de uma pessoa trabalhando ao fundo; (5) alguém carregando uma braçada de peças de malha em terracota e rosa sobre um caixote plástico, em piso de cimento; (6) pilhas de peças dobradas e embaladas em plástico transparente (cinza, preto, vinho, verde-oliva) sobre um balcão de vidro. Não aparece a Blusa Dupla Face, nem o app, nem nenhuma peça sendo costurada — as roupas em cena são estoque pronto da antiga confecção.",
+          "texto_na_imagem": "FRAME 1 (legenda): aprender\n\nFRAME 2 (gravação de tela de story do Instagram):\nCabeçalho, parcialmente coberto: \"Autênticas · 25 de dezembro de 2020\"\nSticker de música, parcialmente ilegível: \"♪ Glowing de dra[...]\"\nSticker de texto em faixa azul-clara: \"CLINTE MEGA ESTILOSA JÁ VAIO / DIVANDO DE LOOK NOVO 🌈🌈🌈\" (escrito assim mesmo, com \"CLINTE\" e \"VAIO\")\nMarca d'água em cursiva no canto inferior direito: \"@aline[...]telles\" (parcialmente ilegível)\nLegenda: ele\n\nFRAME 3 (parede com frases manuscritas; o texto é cortado na borda direita e na borda inferior do quadro):\n\"FALE COM amor ♥\"\n\"Sempre DIGA a VERD[...]\" (cortado)\n\"HONRE SUAS pro[...]\" (cortado)\n\"ouça SEM JULGAR\"\n\"seja ALEGRE E positivo\"\n\"cultive O AMOR E A PAZ\"\n\"PERDOE sempre\"\n\"confie EM DEUS\"\n\"seja grato\"\n[mais uma ou duas linhas abaixo, ilegíveis/cortadas]\nNas sacolas kraft, repetido: \"PÓE\"\nLegenda: aprender\n\nFRAME 4 (legenda): \"rfãz)\" — fragmento de palavra capturado no meio da animação da legenda, ilegível\n\nFRAME 5 (legenda): sonha\n\nFRAME 6:\nTexto no alto: \"Bastidores do nosso BYEBYE!\"\nLegenda: você",
+          "cuidados_do_arquivo": "Este ativo NÃO mostra a Blusa Dupla Face, nem o app, nem nenhuma costura em execução — não use para quem pede \"quero ver a blusa\" ou \"como é o app\". É material antigo e datado: o story tem data visível de 25 de dezembro de 2020, as pessoas usam máscara facial (período de pandemia) e o último frame traz \"Bastidores do nosso BYEBYE!\", ou seja, é registro do encerramento da operação de roupa pronta. Aparecem rostos de terceiros identificáveis (duas mulheres, aparentemente uma cliente e uma acompanhante) e uma marca d'água de perfil de Instagram de terceiro, parcialmente ilegível — confirmar autorização de imagem antes de reenviar em escala. A legenda automática tem erros (\"CLINTE\", \"VAIO\") e um trecho totalmente ilegível, o que pode gerar dúvida se a cliente perguntar o que está escrito. O áudio faz promessas comerciais (preço certo, lucro desde as primeiras semanas, sem fidelidade, cancela quando quiser) que não aparecem escritas na tela; a IA não deve ampliar nem detalhar valores a partir deste vídeo.",
+          "transcricao": "Antes de eu te contar sobre a Trilha das Empreendedoras, eu quero te contar uma coisa muito real. Eu não nasci sabendo vender. Eu aprendi a costurar muito, muito antes de aprender a cobrar o preço certo pelo que eu fazia. E por muitos anos, eu aprendi a produzir bonito e vender errado. Se você já sabe costurar, já produz suas próprias peças ou até trabalha numa facção, você já passou pela parte mais difícil, você sabe fazer. Então esse vídeo, ele não é sobre te ensinar a costurar tudo de novo, tá? É sobre o que ninguém te ensinou ainda. Como colocar o preço certo sem medo? Como decidir também o que vale e o que não vale a pena confeccionar? Ou se de repente é melhor você comprar e revender? O que importa é você aprender a vender com lucro, de verdade. E é exatamente isso que a gente constrói juntas na Trilha das Empreendedoras, desde as primeiras semanas. Nada de esperar meses pra chegar no que realmente importa pro seu bolso. Há uma coisa importante, a trilha não tem fidelidade. Você entra, se um dia sentir que não faz sentido pra você, cancela quando quiser, sem burocracia, sem pegadinha. Aqui dentro, você também não vai estar sozinha, a gente constrói junto. E o meu compromisso é te falar a verdade. Naquele momento que você estiver perdida, pode contar comigo. E com mais um grupo de mulheres, que assim como você, sonha em transformar a sua costura em um negócio de verdade. Tudo que eu ensino na trilha é o que eu aprendi na prática, ao longo da minha própria jornada. Porque pra mim, tudo sempre começou pelo produto. Foi o produto que me ensinou a precificar e a me posicionar e a vender. Se você já sabe produzir, chegou a hora de aprender a transformar isso em dinheiro de verdade. Eu te espero, sem mais demoras, na Trilha das Empreendedoras.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo11-trilha-empreendedoras.mp4",
+          "sha256": "6c8b92ef886ee3246f00d39ef18d01305638b53a62f9179562ce82049b2bec78"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Vídeo de 1min42 de venda direta da Trilha das Empreendedoras: a Adriana conta que aprendeu a costurar antes de aprender a cobrar, e lista o que a Trilha ensina (preço certo, o que vale confeccionar ou revender, vender com lucro, desde as primeiras semanas, sem fidelidade).",
+        "assunto": [
+          "trilha_das_empreendedoras",
+          "bastidores_confeccao",
+          "precificacao",
+          "vender_com_lucro",
+          "confeccionar_ou_revender",
+          "video_de_venda",
+          "trajetoria_adriana",
+          "sem_fidelidade"
+        ],
+        "responde": [
+          "o que é a Trilha das Empreendedoras?",
+          "como eu aprendo a colocar preço nas minhas peças?",
+          "vale mais a pena confeccionar ou revender?",
+          "tem fidelidade? posso cancelar quando quiser?",
+          "eu já costuro, quero começar a vender — o que vocês têm pra mim?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "como é o app?",
+          "quanto custa o Desafio de 7 Dias",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Eu não nasci sabendo vender. Aprendi a costurar muito antes de aprender a cobrar o preço certo pelo que eu fazia. A Trilha das Empreendedoras é sobre o que ninguém te ensinou: como colocar preço sem medo, como decidir o que vale a pena confeccionar e o que é melhor comprar e revender, como vender com lucro de verdade. E isso já nas primeiras semanas, não depois de meses. Sem fidelidade: você cancela quando quiser.",
+        "cuidados_ia": "NÃO mostra a Blusa Dupla Face, nem peça vestida, nem o app, nem costura em execução: nunca use para \"quero ver a blusa\" nem para \"como é o app\". Só para quem já costura, quando a bifurcação apontou para a Trilha. O visual é material de arquivo de 2020, com pessoas de máscara e cenas do encerramento da loja: se ela comentar as imagens, explique que são bastidores da época em que a PÓE vendia roupa pronta. As legendas automáticas do vídeo têm erros de digitação. Não detalhe valores nem promessas de retorno a partir dele.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo12",
@@ -301,11 +802,47 @@
       "itens": [
         {
           "arquivo": "audio/ativo12-pos-venda-boas-vindas.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo12-pos-venda-boas-vindas.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo12-pos-venda-boas-vindas.ogg",
           "bytes": 122180,
-          "duracao_s": 48.8
+          "duracao_s": 48.8,
+          "transcricao": "Viva! Seja muito bem-vinda oficialmente à Escalada da Costura e ao Método PÓE! E eu tô muito feliz por ter você aqui e por fazer parte desse novo capítulo da sua vida. Pode ter certeza de uma coisa, sua primeira Blusa PÓE vai ser só o começo. Eu acredito que ela marca o início de uma nova história que pode crescer muito, evoluir e levar você ainda mais longe do que você imagina. E agora a gente tá juntas pra valer. Eu vou comemorar com você cada conquista, cada aprendizado e principalmente a sua primeira vitória, a primeira Blusa PÓE. Então, novamente, seja bem-vinda e vamos viver essa escalada juntas. Vai ser uma alegria caminhar ao seu lado.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo12-pos-venda-boas-vindas.ogg",
+          "sha256": "db866ba5467c617e3826238f6d513b97a4668301381cb615d04aabfed1d767f9"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Áudio de 48s de boas-vindas oficial, para tocar logo após a confirmação de pagamento. Celebra a entrada e promete acompanhar cada conquista. Não tem instrução de acesso.",
+        "assunto": [
+          "boas_vindas",
+          "pos_compra",
+          "acolhimento_aluna_nova",
+          "primeira_blusa_poe",
+          "primeira_vitoria",
+          "metodo_poe",
+          "escalada_da_costura",
+          "motivacao_inicio_jornada"
+        ],
+        "responde": [
+          "acabei de comprar, queria ouvir uma palavra da Adriana",
+          "a Adriana fala com a gente depois que a gente entra?",
+          "tô insegura, será que eu vou conseguir fazer a minha primeira blusa?",
+          "quero me sentir acolhida agora que entrei pro Método PÓE"
+        ],
+        "nao_serve_para": [
+          "como eu acesso as aulas / cadê o link da plataforma",
+          "quero ver a blusa",
+          "quanto custa",
+          "que tecido eu compro pra fazer a blusa",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Seja muito bem-vinda oficialmente à Escalada da Costura e ao Método PÓE! Eu tô muito feliz por ter você aqui. A sua primeira Blusa PÓE vai ser só o começo. Agora a gente tá junta pra valer, e eu vou comemorar com você cada conquista.",
+        "cuidados_ia": "Só depois da confirmação externa de pagamento. Não explica como acessar o app: quem faz isso é o ativo17.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo13",
@@ -320,10 +857,47 @@
       "itens": [
         {
           "arquivo": "imagem/ativo13-selo-despertar.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo13-selo-despertar.jpeg",
-          "bytes": 267817
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo13-selo-despertar.jpeg",
+          "bytes": 267817,
+          "descricao_visual": "Arte vertical (formato stories) de certificado/selo de conquista do Método PÓE, em fundo bege-rosado aquarelado com moldura dourada ornamental nos quatro cantos e pequenas estrelas douradas espalhadas. No topo, uma coroa dourada com pedra rosa e o título \"PARABÉNS!\" em letras douradas grandes, seguido do aviso de que a pessoa conquistou o seu primeiro selo do Método PÓE. No centro domina o emblema: uma borboleta prateada de asas muito detalhadas, emoldurada por uma coroa de louros dourada e apoiada sobre uma fita rosa com um camafeu de gema rosa no meio. Abaixo do emblema vem o nome do selo, \"SELO DESPERTAR AUTÊNTICO\", em dourado, e um bloco de texto de celebração em maiúsculas, com a palavra \"transformador!\" em manuscrito rosa dentro de uma caixa de borda rosa. No rodapé, a assinatura \"MÉTODO PÓE\" e o perfil @poe.store. Não há fotos de pessoas nem imagens de peças de roupa.",
+          "texto_na_imagem": "PARABÉNS!\nVOCÊ ACABA DE CONQUISTAR\nO SEU PRIMEIRO SELO\nDO MÉTODO PÓE!\n\nSELO\nDESPERTAR AUTÊNTICO\n\nHOJE COMEÇA UMA\nNOVA FASE DA SUA HISTÓRIA!\n\nVOCÊ ACABA DE DESPERTAR UMA HABILIDADE\nQUE PODE TRANSFORMAR SUA CRIATIVIDADE,\nSUA AUTOESTIMA E A FORMA COMO\nVOCÊ VÊ O SEU PRÓPRIO POTENCIAL.\n\nESTE É SÓ O COMEÇO DE ALGO\ntransformador! ♡\n\nCOMPARTILHE ESTE MOMENTO\nE CELEBRE SUA CONQUISTA!\n\nMÉTODO PÓE\n@poe.store",
+          "cuidados_do_arquivo": "Ativo de celebração pós-conquista: ele afirma que a pessoa JÁ conquistou o primeiro selo. Não deve ser enviado para lead que ainda não comprou nem para aluna que ainda não concluiu a etapa correspondente, porque parabeniza por algo que não aconteceu. A arte não diz qual aula, tarefa ou etapa desbloqueia o selo, nem em que tela do app ele aparece: a IA não deve inventar esse critério. O texto pede \"compartilhe este momento\", mas a imagem não traz link, hashtag nem instrução de onde compartilhar.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo13-selo-despertar.jpeg",
+          "sha256": "83b2128e7ec1b0102c460956b0716f86b888db76ee2b8795d3d89070d7b0bddd"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Arte de celebração do selo Despertar Autêntico, o primeiro selo do Método PÓE. Diz \"PARABÉNS, você acaba de conquistar o seu primeiro selo\".",
+        "assunto": [
+          "selo_conquista",
+          "despertar_autentico",
+          "primeiro_selo",
+          "metodo_poe",
+          "gamificacao",
+          "celebracao_conquista",
+          "reconhecimento_aluna"
+        ],
+        "responde": [
+          "o que é o selo Despertar Autêntico?",
+          "como é o selo que eu ganho no Método PÓE?",
+          "qual é o primeiro selo que a aluna conquista?",
+          "eu ganho algum certificado ou reconhecimento?",
+          "o que eu recebo quando concluo a primeira etapa?"
+        ],
+        "nao_serve_para": [
+          "tem depoimento de aluna?",
+          "quero ver provas",
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Parabéns! Você acaba de conquistar o seu primeiro selo do Método PÓE, o Despertar Autêntico. Hoje começa uma nova fase da sua história.",
+        "cuidados_ia": "É pós-conquista. NUNCA envie para lead nem para aluna que ainda não concluiu a etapa: parabeniza por algo que não aconteceu. A arte não diz qual tarefa destrava o selo, então não invente o critério.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo14",
@@ -338,9 +912,62 @@
       "disponivel": true,
       "itens": [
         {
-          "url": "https://metodopoe.com.br/course/c6f10e07-6b69-4b84-4a5b-08de7e09ef84/lesson/af25d40e-2749-443d-25ff-08deded67f00"
+          "url": "https://metodopoe.com.br/course/c6f10e07-6b69-4b84-4a5b-08de7e09ef84/lesson/af25d40e-2749-443d-25ff-08deded67f00",
+          "envio": "liberado",
+          "transcricao": "Hello, Autêntica! Seja muito bem-vinda! Eu sei, a maioria das pessoas acredita realmente que aprender a costurar é algo difícil. E eu não tiro a razão delas, porque a maioria dos cursos é completamente cheio de um monte de conhecimento e você não sai do lugar. Moldes complicados, técnicas confusas, processos infinitos que fazem muita gente desistir antes de começar. Bate o olho ali naquela quantidade de curso, tanto de tempo que ela vai demorar para costurar, ela já desiste ali. Mas a verdade é que quando você aprende do jeito certo Em poucos dias você já consegue criar a sua primeira peça E é exatamente isso que vai acontecer aqui Mas como que eu posso te prometer isso? Eu sou Adriana PÓE, estilista e criadora da marca PÓE, Modo Ajustável O que eu vou te ensinar aqui é o que eu desenvolvi durante anos Modelagens inteligentes Peças ajustáveis que já vestiram milhares de mulheres ao redor do Brasil e em vários países do mundo. Essas peças foram pensadas para funcionar na vida real. São peças versáteis, confortáveis e que se adaptam a diferentes biotipos. Depois de muitos anos criando essas modelagens, vendendo esses produtos e vendo testemunhas de muitas mulheres, eu decidi fazer algo ainda maior. Eu decidi abrir todo esse conhecimento para vocês. pela primeira vez através deste método e deste aplicativo. Eu estou aqui para compartilhar com voc todo o meu conhecimento Aqui dentro voc vai encontrar uma jornada que eu chamo de Escalada da Costura poi muito simples um caminho passo a passo onde voc vai aprendendo e praticando E logo de cara, você já começa a desbloquear o quê? A costureira que eu sei que está dentro de você. Logo no primeiro desafio dessa jornada, você já vai viver a sua primeira grande conquista. Pensa comigo. em apenas 7 dias, estudando e colocando em prática uma hora e meia, duas horas por dia, você já vai aprender a criar e a costurar a sua primeira peça. E não é qualquer peça. É a Blusa Dupla Face. Viralizada e de xodó das autênticas. Já foi feita em várias combinações de cores e estampas. E é totalmente colecionável. Agora, calma lá. Antes de eu liberar a escalada pra você, existe uma primeira pequena missão. Eu deixei um quiz aqui embaixo com algumas perguntinhas muito simples. Esse quiz vai me ajudar logo de cara a entender se você está começando realmente do zero, se você já tem alguma experiência com costura ou se o seu sonho, além de costurar, é empreender com costura e viver disso, o que eu acho incrível por sinal. Quando você terminar esse quiz, aí sim, você já conquista o seu primeiro selo, que é muito divertido e muito legal aqui nessa plataforma e esse selo vai desbloquear oficialmente a sua jornada aqui dentro. É algo simples e rápido. Basta clicar no botão aqui embaixo, responder o quiz e conquistar o seu primeiro selo. Aí sim, a partir daí, a escalada começa oficialmente pra você. E eu te vejo nessa próxima etapa. Até lá!",
+          "transcricao_fonte": {
+            "origem": "legenda oficial pt.vtt do player (Bunny Stream)",
+            "video_id": "79f2a006-ea00-495e-83ba-7039816bda4d",
+            "lido_em": "2026-09-08",
+            "nota": "Legenda gerada pela plataforma, não STT nosso. Grafia da marca normalizada."
+          }
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Aula \"Primeira Missão\" dentro do app, 3min07. A Adriana se apresenta, explica por que a maioria dos cursos de costura trava a aluna, e apresenta a Escalada da Costura. Fecha pedindo que ela responda o Quiz de Boas-Vindas, que é o que destrava o Selo Despertar Autêntico. O quiz faz TRIAGEM DE PERFIL: pergunta se ela começa do zero, se já tem experiência, ou se quer empreender com costura.",
+        "assunto": [
+          "primeira_missao",
+          "quiz_boas_vindas",
+          "sete_pilares",
+          "escalada_da_costura",
+          "primeiro_selo",
+          "despertar_autentico",
+          "onboarding_app",
+          "curso_de_apresentacao",
+          "triagem_de_perfil",
+          "por_que_a_escalada_e_diferente"
+        ],
+        "responde": [
+          "qual é a primeira coisa que eu faço dentro do app?",
+          "como eu ganho o meu primeiro selo?",
+          "o que é a Primeira Missão?",
+          "o que são os 7 Pilares da Escalada da Costura?",
+          "tem quiz no começo do curso?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "quanto custa",
+          "que tecido eu compro",
+          "como instalo o aplicativo",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "A sua primeira missão dentro do app é assistir ao curso de apresentação da Escalada da Costura e responder o Quiz de Boas-Vindas. É rapidinho, uns 3 minutos de vídeo, e é justamente isso que destrava o seu primeiro selo, o Despertar Autêntico.",
+        "cuidados_ia": "É link do app, vai como URL no texto ou botão, NUNCA como anexo. Concluir esta aula é o que libera o Selo Despertar Autêntico (o ativo13): não envie o selo antes disso. A fala do vídeo ainda não foi transcrita, então não cite frases dela. Não cite a nota de avaliação da aula: o n é baixo (18) e o número envelhece. O quiz desta aula faz a mesma triagem de perfil do funil de Vendas (do zero / já costura / quer empreender). Se {{perfil}} já estiver preenchido pela conversa, não repita a pergunta: o quiz cuida disso dentro do app.",
+        "catalogado_em": "2026-09-08",
+        "titulo_no_app": "Primeira Missão (cabeçalho \"Hello Autêntica!\")",
+        "duracao_video": "3:07",
+        "avaliacao_lms": {
+          "nota": 4.9,
+          "n": 18,
+          "lido_em": "2026-09-08",
+          "fonte": "página da aula no LMS"
+        },
+        "revisar_em": "2026-12-07",
+        "motivo_revisao": "Captura interface de app, data relativa ou página externa: envelhece."
+      }
     },
     {
       "id": "ativo15",
@@ -355,10 +982,47 @@
       "itens": [
         {
           "arquivo": "imagem/ativo15-lista-materiais-blusa-dupla-face.jpeg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo15-lista-materiais-blusa-dupla-face.jpeg",
-          "bytes": 537773
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/imagem/ativo15-lista-materiais-blusa-dupla-face.jpeg",
+          "bytes": 537773,
+          "descricao_visual": "Infográfico vertical (formato de post/card longo) com fundo azul-marinho escuro e arte em dourado, no estilo visual da PÓE. No topo, ilustrações douradas de máquina de costura, fita métrica enrolada, botão, dedal, agulha, carretel de linha e ramos decorativos, com o título grande \"LISTA DE MATERIAIS\", o subtítulo \"DESAFIO 1\", o nome \"Blusa Dupla Face\" em manuscrito dourado e a faixa \"ESCALADA DA COSTURA\". Abaixo, quatro cartões cor creme numerados de 1 a 4: (1) Kit básico de costura, com dez itens ilustrados em duas colunas; (2) Tecidos para a Blusa Dupla Face, mostrando dois rolos (azul-marinho e dourado) com \"1,5 metro da cor 1\" + \"1,5 metro da cor 2\", a faixa \"TOTAL: 3 METROS DE TECIDO\", seis amostras circulares de tecidos indicados e cinco ícones de \"o que procurar no tecido\"; (3) Máquina de costura, com os selos \"PONTO RETO\" e \"ZIGUE-ZAGUE\" e uma máquina doméstica ilustrada; (4) Seu cantinho de costura, com cinco ícones (mesa, cadeira, ferro, tábua de passar, luminária) e um lembrete em destaque. No rodapé, frase de encerramento em manuscrito dourado sobre o fundo azul. Não aparecem pessoas nem fotos reais — a peça é toda ilustrada.",
+          "texto_na_imagem": "LISTA DE MATERIAIS\nDESAFIO 1\nBlusa Dupla Face\nESCALADA DA COSTURA\n\n1 — KIT BÁSICO DE COSTURA\nMateriais que você utilizará durante as aulas:\n- Tesoura para tecido\n- Tesourinha corta-fio\n- Fita métrica\n- Régua\n- Giz ou caneta para tecido\n- Alfinetes\n- Alfineteiro\n- Desmanchador de costura\n- Passador de linha para máquina\n- Folhas sulfite (para os treinos iniciais)\nDICA PÓE: Tenha sempre seu kit organizado. Isso te ajuda a costurar com mais leveza!\n\n2 — TECIDOS PARA A BLUSA DUPLA FACE\nPara confeccionar sua primeira Blusa Dupla Face PÓE você precisará de:\n1,5 METRO DA COR 1 + 1,5 METRO DA COR 2\nTOTAL: 3 METROS DE TECIDO\nTECIDOS INDICADOS\n- VISCOSE\n- POPELINE DE VISCOSE\n- VISCOLINHO (COM BASE DE VISCOSE)\n- CREPE AIR FLOW\n- CREPE COMFORT FLOW\n- CREPES LEVES (POLIÉSTER E POLIAMIDA)\nO QUE PROCURAR NO TECIDO\n- LEVE\n- COM BOM CAIMENTO\n- CONFORTÁVEL AO TOQUE\n- NÃO MUITO GROSSO\n- NÃO TRANSPARENTE EM EXCESSO\n\n3 — MÁQUINA DE COSTURA\nPara este curso você NÃO precisa de uma máquina profissional. Uma máquina doméstica simples já é suficiente, desde que possua:\nPONTO RETO + ZIGUE-ZAGUE\nQualquer marca pode funcionar (Singer, Elgin, Janome, Brother, etc.), desde que esteja em bom funcionamento.\n\n4 — SEU CANTINHO DE COSTURA\nVocê não precisa de um ateliê completo para começar.\n- Mesa firme para costurar\n- Cadeira confortável\n- Ferro de passar roupa\n- Tábua de passar (ou mesa adaptada)\n- Boa iluminação\nLEMBRE-SE: Muitas costureiras começaram sua mesa da cozinha. O mais importante não é o tamanho do espaço, mas a constância em praticar.\n\nRodapé:\nSeu objetivo não é montar um ateliê perfeito.\nSeu objetivo é costurar sua primeira peça ajustável e atemporal.\nA ESTRUTURA IDEAL PODE VIR DEPOIS; O IMPORTANTE É COMEÇAR!",
+          "cuidados_do_arquivo": "Não há pessoas nem conteúdo sensível. Dois pontos de atenção: (1) o texto do bloco 4 traz uma falha de redação no próprio material — está escrito \"Muitas costureiras começaram sua mesa da cozinha\" (aparentemente faltando \"na\"); a IA deve parafrasear (\"muitas costureiras começaram na mesa da cozinha\") em vez de citar literalmente. (2) O material cita marcas de máquina (Singer, Elgin, Janome, Brother) apenas como exemplos de que qualquer marca serve — a IA não deve tratar isso como lista fechada nem recomendar marca. O infográfico é do Desafio 1 da Blusa Dupla Face / Escalada da Costura; não serve para responder sobre a Trilha das Empreendedoras nem sobre o Clube das Autênticas. Não há link, preço nem data na peça, então não envelhece — mas as metragens (1,5 m + 1,5 m = 3 m) e a lista de tecidos são específicas deste projeto e não devem ser generalizadas para outras peças.",
+          "envio": "liberado",
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/imagem/ativo15-lista-materiais-blusa-dupla-face.jpeg",
+          "sha256": "0287e25313afae326a5b8a97f554cf9f16ede51f17e6445823fd80497cd1f2a1"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Infográfico com a lista completa de materiais do Desafio 1: kit básico de costura, os tecidos indicados e a metragem (1,5 m de cada cor, 3 m no total), o requisito de máquina (doméstica com ponto reto e zigue-zague basta) e o cantinho de costura. É a fonte de verdade sobre material e equipamento.",
+        "assunto": [
+          "lista_materiais",
+          "blusa_dupla_face",
+          "tecido",
+          "maquina_costura",
+          "kit_costura",
+          "escalada_da_costura",
+          "espaco_de_costura",
+          "metragem_tecido"
+        ],
+        "responde": [
+          "que tecido eu preciso comprar para a Blusa Dupla Face?",
+          "quantos metros de tecido preciso comprar?",
+          "minha máquina de costura serve para o curso?",
+          "o que eu preciso comprar antes de começar o Desafio?",
+          "preciso de um ateliê ou de uma mesa grande para costurar?",
+          "quais materiais entram no kit básico de costura?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "tem foto da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Para a Blusa Dupla Face você vai precisar de 1,5 metro de cada uma das duas cores, 3 metros no total. Os tecidos indicados são viscose, popeline de viscose, viscolinho, crepe air flow, crepe comfort flow e crepes leves: procure algo leve, com bom caimento, confortável ao toque, nem muito grosso nem transparente demais. O kit básico é tesoura de tecido, tesourinha corta-fio, fita métrica, régua, giz ou caneta de tecido, alfinetes, alfineteiro, desmanchador, passador de linha e folhas sulfite. E você não precisa de máquina profissional. Para a PRIMEIRA blusa, uma máquina que faça só ponto reto já dá conta: você consegue fazer a peça inteira. O zigue-zague não é requisito para começar, mas é o ponto que vai fazer falta para continuar: sem ele você trava no acabamento das próximas peças da Escalada. Então: dá para começar com o que você tem, e o zigue-zague entra como o próximo passo natural quando você for trocar ou comprar máquina.",
+        "cuidados_ia": "Responde material, tecido, metragem, máquina e espaço. Prefira mandar a imagem a descrever a lista por texto. As marcas citadas são exemplos de que qualquer marca serve, não recomendação. Vale só para a Blusa Dupla Face, não generalize a metragem para outras peças. Uma frase do material saiu com erro de digitação: parafraseie \"muitas costureiras começaram na mesa da cozinha\" em vez de citar literal. IMPORTANTE sobre a máquina: a imagem lista \"ponto reto + zigue-zague\" como o requisito da Escalada, não da primeira blusa. Se a cliente só tem máquina reta, NÃO diga que ela não pode participar: ela faz a primeira blusa inteira. O zigue-zague é o que ela vai precisar para continuar. Enquadre sempre nos dois tempos.",
+        "catalogado_em": "2026-09-05"
+      }
     },
     {
       "id": "ativo16",
@@ -366,6 +1030,7 @@
       "tipo": "link",
       "etapa": "pos_venda",
       "agente": [
+        "vendas",
         "sac"
       ],
       "quando_usar": "Etapa 9.8 (primeira aula). São as duas aulas do Dia 0, hospedadas no LMS metodopoe.com.br — enviar como LINK no texto.",
@@ -373,8 +1038,63 @@
       "disponivel": true,
       "itens": [
         {
-          "url": "https://metodopoe.com.br/course/074cc3e9-18d6-4611-bad0-08de82503de7/lesson/56fc811a-eb95-40b7-9d72-08de81de5ea4"
+          "url": "https://metodopoe.com.br/course/074cc3e9-18d6-4611-bad0-08de82503de7/lesson/56fc811a-eb95-40b7-9d72-08de81de5ea4",
+          "envio": "liberado",
+          "transcricao": "Hello, Autêntica! Seja muito bem-vinda ao desafio 7 dias da sua primeira Blusa Dupla Face da PÓE. Respira fundo comigo, que eu preciso te contar uma coisa. Não sei não, mas talvez você esteja achando que você entrou num curso. Não. A verdade é que agora começa o jogo. Um jogo de 7 dias. E nesse jogo, você destrava a costureira que eu sei que existe aí dentro de você. Essa habilidade tá aí e a gente vai tirar ela pra fora. E qual que vai ser o seu maior prêmio? Depois dos sete dias, você sai vestindo a sua primeira peça boy, a sua Blusa Dupla Face. Ah! É isso mesmo. Sim, em apenas sete dias. Vamos às regras deste jogo. Vem comigo, o todo jogo tem sua regra. Aqui são simples, anota aí. Uma hora e meia a duas horas por dia. Estudo e prática, só isso. É o tempo que você vai tirar de uma série, de um filme, colocou seu filho para dormir, sem drama, sem perfeccionismo e sem esperar o cenário ideal. Separa uma hora e meia a duas horas por dia que você já vai arrasar. Não precisa de ateliê perfeito, você precisa começar. começar deixa eu te falar algo muito importante muita gente começa um curso um projeto uma ideia mas a vit s de quem termina isso mesmo e eu sou do time daquelas que n desistem nunca e se voc t aqui voc acaba de entrar nesse time tamb Ent bora destravar essa costureira Esse é o nível 1 dos 7 pilares da Escalada da Costura PÓE. A nossa blusa. Presta muita atenção. Você não tá fazendo uma blusa. Você tá aprendendo destravando uma base técnica da PÓE. várias habilidades que vão te levar a fazer outras peças, inclusive o maravilhoso e amado vestido dupla face. Sim! Aquele mesmo, o mais viralizado da internet inteira. E eu sei que você quer chegar lá, né? Ele é o quarto pilar da PÓE. Se você tá no primeiro pro quarto, é um pulinho. Eu quero muito ver você fazendo ele. Mas o jogo é assim, gente. Não dá pra você enfrentar o chefão logo no primeiro nível. Vamos lá, passo a passo. Primeiro você domina a base. E essa aqui é a base. São sete dias. É uma blusa. A missão tá mais do que clara. Quando você destrava a blusa, você fica oficialmente muito mais perto do vestido. Delícia, né? Agora não dá pra ficar parada. Você já chegou até aqui, tá na hora de avançar. Já dá o play no próximo vídeo, ainda hoje. Corre para assistir, eu vou te mostrar exatamente o que você vai precisar para começar O material exato, sem exagero, sem gastos necessários, sem complicação Daquele jeitinho prático, divertido, fácil, inteligente, que você ama dar apoio Vamos comigo? Já dá o play e eu te vejo lá com essa lista de materiais super simples Nível 1 começa agora! Vamos?",
+          "transcricao_fonte": {
+            "origem": "legenda oficial pt.vtt do player (Bunny Stream)",
+            "video_id": "97afc8f0-995d-43fe-b7c2-1a3b1519f5ab",
+            "lido_em": "2026-09-08",
+            "nota": "Legenda gerada pela plataforma, não STT nosso. Grafia da marca normalizada."
+          }
         }
+      ],
+      "conteudo": {
+        "resumo": "Aula de abertura do Desafio, 3min27. A Adriana enquadra os 7 dias como um jogo com regra clara: 1h30 a 2h por dia de estudo e prática, sem ateliê perfeito e sem perfeccionismo. Explica que a Blusa Dupla Face é o NÍVEL 1 dos 7 Pilares da Escalada, e que o vestido dupla face, o mais pedido, é o 4º pilar: a blusa é a base técnica que leva até ele.",
+        "assunto": [
+          "dia_0",
+          "como_funciona_o_desafio",
+          "tempo_por_dia",
+          "organizacao_da_rotina",
+          "expectativa_do_desafio",
+          "sair_do_zero",
+          "primeira_peca",
+          "combinado_do_desafio",
+          "sete_pilares",
+          "nivel_1",
+          "vestido_dupla_face",
+          "base_tecnica"
+        ],
+        "responde": [
+          "quanto tempo por dia eu preciso ter?",
+          "não tenho tempo, será que eu dou conta?",
+          "como funciona o Desafio de 7 Dias na prática?",
+          "preciso saber costurar antes de começar?",
+          "como eu me organizo pra conseguir terminar?",
+          "a blusa é o quê dentro da Escalada?",
+          "quando eu aprendo o vestido dupla face?",
+          "quantos pilares tem a Escalada?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "quanto custa",
+          "que tecido eu compro",
+          "quero saber da Trilha das Empreendedoras",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "O combinado do Desafio é bem claro: em até 7 dias, com uma dedicação média de 1h30 a 2h por dia, você sai do zero, aprende o passo a passo e termina a sua primeira peça. Não precisa de ateliê perfeito, não precisa ser perfeito: precisa começar e ir até o fim. E a Blusa Dupla Face não é só uma blusa: ela é o nível 1 dos 7 Pilares da Escalada, a base técnica que depois te leva até o vestido dupla face, que é o quarto pilar.",
+        "cuidados_ia": "É link do app e exige login, então vai como URL no texto, NUNCA como anexo, e em Vendas normalmente só o fallback_texto é utilizável (ele é autossuficiente). O \"1h30 a 2h por dia\" é a estimativa oficial de dedicação do Desafio: use esse número exato na objeção de falta de tempo, não arredonde. Existe também uma grade de duração por dia dentro do ativo17 (texto na tela do app): use uma coisa ou outra, nunca some as duas nem apresente como se fossem a mesma medida. A fala do vídeo ainda não foi transcrita; o texto acima vem da descrição escrita da aula.",
+        "catalogado_em": "2026-09-08",
+        "titulo_no_app": "DIA 0 — Eu te desafio: Sua Primeira Blusa em 7 dias!",
+        "duracao_video": "3:27",
+        "revisar_em": "2026-12-07",
+        "motivo_revisao": "Captura interface de app, data relativa ou página externa: envelhece."
+      },
+      "objecoes": [
+        "pouco_tempo"
       ]
     },
     {
@@ -390,11 +1110,55 @@
       "itens": [
         {
           "arquivo": "video/ativo17-tutorial-instalacao-app.mp4",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo17-tutorial-instalacao-app.mp4",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/video/ativo17-tutorial-instalacao-app.mp4",
           "bytes": 13496794,
-          "duracao_s": 129.8
+          "duracao_s": 129.8,
+          "descricao_visual": "Gravação de tela de um iPhone, do começo ao fim: não aparece nenhuma pessoa filmada, nenhum cenário físico e nenhuma legenda queimada na tela — só a interface, com o ponto vermelho de gravação na Dynamic Island. A sequência vai do download ao uso: página do app PÓE na App Store (versão 3.6.0, botão azul \"Abrir\", prévias em laranja \"RECOMPENSAS PÓE\" e em vinho \"COMUNIDADE / MULHERES AUTÊNTICAS — CLUBE AUTÊNTICAS\"), depois a tela de cadastro \"Criar conta — Informe seu número de celular\" com DDI +55 e teclado numérico aberto, e então o conteúdo: a aula \"Quiz de Boas-Vindas PÓE\" assinada por Adriana PÓE, com banner azul-marinho e dourado da Escalada da Costura (máquina de costura, tesoura e ramos ornamentais), e a lista de aulas de DIA 0 a DIA 5 com duas aulas marcadas \"GRATUITO\" e a barra de preço R$ 297,00 / 10× R$ 29,70 com o botão vermelho \"Compra aqui\". Os dois últimos frames mostram a comunidade: o Feed do Mural das Autênticas com um vídeo de uma blusa rosa/lilás de gola e mangas curtas em tecido bege claro, dobrada sobre uma superfície clara ao lado de uma caixa de madeira e um ramo seco, e a tela \"Nova publicação\" com as opções Aa, Imagem, Documento, Vídeo, Áudio, GIF e Gravação, com a galeria de fotos do aparelho abrindo por baixo. A barra inferior do app aparece em vários frames (Mural, Blusa, Cursos, Criar, Ana IA, Mais) e não há troca de cenário entre os frames — é uma única gravação de tela, embora o relógio do aparelho avance de 16:05 a 16:10 num vídeo de 129 segundos, o que indica que a gravação foi cortada/editada.",
+          "texto_na_imagem": "FRAME 1 (16:05, \"◀ Safari\"): \"Novidades\" (parcialmente coberto) / \"Versão 3.6.0\" / \"Há 3 semanas\" / \"Correção de imagens.\" / botão \"Abrir\" / ícone do app com \"PÓE\" / \"Prévia\" / na primeira captura: \"RECOMPENSAS PÓE — COLECIONE CONQUISTAS A CADA EVOLUÇÃO + GANHE SELOS\", com mockup de celular exibindo \"CONQUISTAS PÓE\" e a linha \"Conheça as Conquistas e Colecione\" (demais textos miúdos dentro do mockup ilegíveis) / na segunda captura: \"COMUNI…\" / \"MULHERES AU…\" / \"CLUBE Autênti…\" (cortadas pela borda) / \"iPhone\" / barra de abas da App Store: \"Hoje  Jogos  Apps  Arcade  Buscar\" / no rodapé, frase cortada: \"…virais da PÓE sem depender de moldes!\"\n\nFRAME 2 (16:06, \"◀ App Store\"): \"Criar conta\" / \"Informe seu número de celular\" / \"Número\" / \"+55\" / campo preenchido com \"13978072\" / botão \"Continuar\" / teclado numérico: \"1 / 2 ABC / 3 DEF / 4 GHI / 5 JKL / 6 MNO / 7 PQRS / 8 TUV / 9 WXYZ / + * # / 0\"\n\nFRAME 3 (16:07, \"◀ App Store\"): \"Adriana PÓE\" / \"Instrutor(a)\" / \"Marcar como concluído\" / \"Avaliar\" / abas \"Sobre\" e \"Arquivos 2\" / banner: \"ESCALADA DA COSTURA\" (as linhas menores acima e abaixo do título estão ilegíveis) / \"Quiz de Boas-Vindas PÓE\" / \"✨ Hello, Autêntica! Antes de começarmos sua Escalada da Costura PÓE… quero te conhecer rapidinho 💛 Responda essas perguntas para desbloquear seu primeiro selo e personalizar sua jornada dentro do aplicativo ✂️🦋\" / rodapé: \"Comentários\" / \"Discussões\"\n\nFRAME 4 (16:08, \"◀ App Store\"): título cortado no topo: \"Tudo que está incluso\" / \"01  DIA 0 — 2 conteúdos · 12 minutos · 2 gratuitos disponíveis\" / miniatura \"EU TE DESAFIO\" → \"Eu te desafi…\" · \"4 min\" · \"GRATUITO\" / miniatura \"MATERIAIS\" → \"Materiais: O …\" · \"8 min\" · \"GRATUITO\" / \"02  DIA 1 — 16 conteúdos · 1 hora e 59 minutos\" / \"03  DIA 2 — 9 conteúdos · 58 minutos\" / \"04  DIA 3 — 5 conteúdos · 31 minutos\" / \"05  DIA 4 — 10 conteúdos · 1 hora\" / \"DIA 5\" (cortado pela barra inferior) / \"R$ 297,00\" / \"10× R$ 29,70\" / botão \"Compra aqui →\"\n\nFRAME 5 (16:09, \"◀ App Store\"): abas \"Feed\" / \"Grupos\" / player de vídeo com \"0:00\" / \"♡ 4\" · \"e mais 1\" / \"Adriana PÓE\" / \"em Mural das Autênticas · há 17 dias\" / etiqueta colorida abaixo do nome, borrada e ilegível / \"🦋 *Faltam só 8 dias*…\" / \"Em poucos dias, você vai costurar a sua primeira Blusa\" (frase cortada pela borda inferior) / marca d'água dentro do vídeo, ilegível / barra inferior: \"Mural  Blusa  Cursos  Criar  Ana IA  Mais\"\n\nFRAME 6 (16:10, \"◀ App Store\"): \"Nova publicação\" / avatar \"AP\" / \"Adriana PÓE\" / \"O que você quer compartilhar conosco?\" / opções de anexo: \"Aa\", \"Imagem\", \"Documento\", \"Vídeo\", \"Áudio\", \"GIF\", \"Gravação\" / seletor de fotos abrindo por baixo com as abas \"Fotos\" e \"Coleções\" (miniaturas com texto ilegível)",
+          "cuidados_do_arquivo": "Dado pessoal na tela: no frame de cadastro aparece um número de celular parcial sendo digitado (\"13978072\"). Não é da cliente que vai receber o vídeo, mas é dado exposto — não comentar nem repetir esse número. No último frame a galeria de fotos do próprio aparelho começa a abrir e aparecem miniaturas de terceiros, incluindo um homem de óculos não identificado, sem relação com o conteúdo. Só o caminho iOS/App Store é mostrado: o áudio cita links de Android e iOS, mas quem usa Android não vai reconhecer nenhuma das telas iniciais. O vídeo mostra a barra de venda \"R$ 297,00 / 10× R$ 29,70 — Compra aqui\" dentro do app; para quem já comprou isso pode confundir, e esse preço e a versão 3.6.0 do app envelhecem. O post do Mural traz \"Faltam só 8 dias\" e \"há 17 dias\" — prazo relativo já vencido, não usar como data atual. O vídeo ensina a instalar e navegar, mas não entrega link algum: se a cliente pedir os links de download, eles precisam vir de outra fonte.",
+          "transcricao": "Acessou metodopoe.com.br pelo navegador e logo aqui embaixo na página principal você encontra o link tanto do Android quanto do iOS para você baixar o seu aplicativo. Fui aqui para o iOS e você clica em instalar ou baixar e logo já você vai acessar o aplicativo da PÓE. Começar, coloca o e-mail, o mesmo que você fez a sua compra, o seu nome, sobrenome, continua para o telefone e é importantíssimo que o seu celular seja também o mesmo que você fez acesso ou que você finalizou a sua compra, basta cadastrar uma senha e prontinho, você já está dentro do aplicativo aqui, a sua nova casa na Escalada da Costura. Clicou em escalada, eu quero muito que você assista todo esse curso gratuito. São cinco aulinhas maravilhosas explicando exatamente o que é a Escalada da Costura. Tem um quiz de boas-vindas e muitas coisas legais. Seguiu, vamos para o curso. Se você já finalizou o pagamento, você já tem acesso. Se ainda não, a gente tem duas aulas gratuitas, o desafio e os materiais. Você pode baixar aqui também em arquivos o PDF, muito simples. Aqui você vai percorrendo os dias e cada dia segue com as suas aulas. Voltou para o principal, no menu abaixo temos inteligência artificial, a ANA, e ela é a nossa IA treinada para tirar suas dúvidas aqui todinhas do Método PÓE. Você pode acessar dentro do curso e também nesse menu abaixo. Seguimos para o mural e aqui você compartilha suas conquistas. Você vê postagens de inspiração também que eu vou postando ao longo dos dias. E no canto inferior, mais, vamos conhecer as nossas conquistas. É isso mesmo, aqui você fica por dentro de tudo que você pode conquistar no Método PÓE. Explora bastante o aplicativo, dá uma boa olhada em tudo e não esquece, aqui no botão abaixo, criar. Você pode fazer o seu post, é quando eu preciso ver a tua peça pronta. Compartilha com a gente no Mural das Autênticas, eu vou ficar muito feliz em ver a sua realização.",
+          "envio": "liberado",
+          "revisado_por_dono": {
+            "decisao": "aprovado para envio",
+            "em": "2026-09-08",
+            "nota": "O dono do ativo revisou e aprovou o arquivo como está, incluindo o frame final e o campo de telefone. Não reabrir como pendência."
+          },
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/video/ativo17-tutorial-instalacao-app.mp4",
+          "sha256": "70a9c1bb589087520a7c0439840fd10f16505f622007feaf71b0d37ade4432d6"
         }
-      ]
+      ],
+      "conteudo": {
+        "resumo": "Vídeo tutorial de 2min09 mostrando na tela como instalar o app e fazer o primeiro acesso: metodopoe.com.br, download, cadastro com o MESMO e-mail e o MESMO celular da compra, senha, o curso gratuito de cinco aulas, o quiz, as aulas por dia, o PDF de materiais, a IA Ana dentro do app, o Mural das Autênticas e as conquistas.",
+        "assunto": [
+          "instalacao_app",
+          "primeiro_acesso",
+          "cadastro_app",
+          "app_metodo_poe",
+          "quiz_boas_vindas",
+          "mural_da_comunidade",
+          "ana_ia",
+          "tutorial_passo_a_passo"
+        ],
+        "responde": [
+          "como eu instalo o aplicativo da PÓE no meu celular?",
+          "comprei o desafio, e agora, como faço pra entrar no app?",
+          "que e-mail e que telefone eu uso pra criar minha conta no app?",
+          "onde fica o mural das Autênticas e como eu posto a foto da minha peça pronta?",
+          "o aplicativo tem alguma IA pra tirar dúvida enquanto eu costuro?"
+        ],
+        "nao_serve_para": [
+          "tem foto da peça pronta?",
+          "quero ver a blusa",
+          "tem foto da peça?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Para entrar, acesse metodopoe.com.br pelo navegador: na página principal ficam os links de Android e iOS para baixar o app. No cadastro, use o MESMO e-mail e o MESMO telefone que você usou na compra, é isso que faz o sistema reconhecer a sua matrícula. Depois é só criar uma senha e você já está dentro. Lá tem o curso, o Mural das Autênticas para postar suas peças e as suas conquistas.",
+        "cuidados_ia": "Aprovado para envio pelo dono do ativo em 2026-09-08. O vídeo NÃO tem legenda: tudo que ele instrui existe só no áudio, então envie SEMPRE junto, em texto, a regra completa de cadastro: mesmo e-mail E mesmo telefone da compra, sendo o telefone o primeiro campo que o app pede. Só o caminho do iOS aparece na tela: se ela usa Android, avise que as telas iniciais vão ser diferentes. O vídeo mostra a barra de venda dentro do app, o que pode confundir quem já comprou. O vídeo não entrega os links de download: eles vêm da seção 5 do prompt.",
+        "catalogado_em": "2026-09-05",
+        "revisar_em": "2026-12-07",
+        "motivo_revisao": "Captura interface de app, data relativa ou página externa: envelhece."
+      }
     },
     {
       "id": "ativo18",
@@ -409,9 +1173,139 @@
       "disponivel": true,
       "itens": [
         {
-          "url": "https://metodopoe.com.br/course/074cc3e9-18d6-4611-bad0-08de82503de7/lesson/0c1fdb57-8ec5-4975-2660-08deded67f00"
+          "url": "https://metodopoe.com.br/course/074cc3e9-18d6-4611-bad0-08de82503de7/lesson/0c1fdb57-8ec5-4975-2660-08deded67f00",
+          "fonte_do_conteudo": {
+            "origem": "página de checkout do Clube das Autênticas, texto de descrição do produto",
+            "url": "https://metodopoe.com.br/checkout/clube-das-autenticas",
+            "lido_em": "2026-09-08",
+            "trecho": "Ao entrar para o Clube, você desbloqueia uma experiência exclusiva com conteúdos complementares, encontros ao vivo, uma comunidade acolhedora e acesso progressivo aos materiais especiais de cada etapa da Escalada da Costura. Tudo isso por apenas R$ 67,00 por mês, sem fidelidade."
+          },
+          "envio": "liberado",
+          "transcricao": "Hello, Autêntica! Chegou a hora! Você estava esperando esse momento, né? Talvez você não tenha percebido ainda, mas o fato desse vídeo ter aparecido pra você significa uma coisa muito importante. Você concluiu o Gol Pilar 1 e desbloqueou a costureira que está em você. Você faz parte daquele grupo de pessoas que decidiu começar, evoluiu aprendendo e não desistiu. É exatamente por isso que eu estou te entregando esse convite mais especial. Você está pronto oficialmente para fazer parte do Clube das Autênticas. E esse é um espaço reservado só para alunas que decidem continuar evoluindo. Porque juntas é muito mais fácil a gente crescer. A gente não vai caminhar mais sozinha. Quando você entra no Clube das Autênticas, você recebe um selo muito especial. Autêntica VIP. E aí, tem benefício demais para você. Esse selo abre para você portas de benefícios exclusivos. Presta atenção. Vai ter acesso a um grupo único para as Autênticas VIP. Vai participar de desafios para te estimular a continuar evoluindo. e a praticar o conhecimento que voc aprendeu Voc vai ter oficinas tamb com novos conhecimentos e pensa um encontro mensal comigo Acesso antecipado aos novos pilares antes das alunas Vai acumular também algo que eu acho muito legal, flores preciosas. Isso desbloqueia outros benefícios. E sabe a cereja do bolo para as autênticas VIP? 20% de desconto na compra dos próximos pilares. Ai, tá muito demais! Quem decidiu construir uma nova habilidade passo a passo, precisa estar no Clube das Autênticas. Aprender é muito importante. Você concluir os pilares é muito legal. Mas o clube, ele te permite continuar avançando. Sabe aquela força de equipe? É isso que ele vai te trazer. É uma comunidade que uma dá força para a outra. Nós juntas somos daquelas que não desistem nunca. Lembra disso? E quando a gente está se puxando uma a outra, está se incentivando, isso faz tudo ficar. Muito mais fácil e muito mais prazeroso. Eu estou te esperando dentro do clube. Lá é o seu lugar. Todos esses benefícios e muito mais. Vamos já para o Clube das Autênticas. Te vejo lá, hein, VIP!",
+          "transcricao_fonte": {
+            "origem": "legenda oficial pt.vtt do player (Bunny Stream)",
+            "video_id": "c4b61193-df64-4cca-a28e-4e96d3a5356d",
+            "lido_em": "2026-09-08",
+            "nota": "Legenda gerada pela plataforma, não STT nosso. Grafia da marca normalizada."
+          }
         }
+      ],
+      "conteudo": {
+        "resumo": "Aula de fechamento do Desafio, 2min09, em que a Adriana apresenta o próximo passo depois da primeira peça pronta: o Clube das Autênticas, R$ 67,00 por mês, sem fidelidade. A página traz a arte \"Chegou a hora de você se tornar uma Autêntica VIP\" e o botão de assinatura.",
+        "assunto": [
+          "clube_das_autenticas",
+          "dia_7",
+          "proximo_passo",
+          "autentica_vip",
+          "assinatura_mensal",
+          "pos_desafio",
+          "evolucao_da_aluna",
+          "autentica_vip",
+          "beneficios_do_clube",
+          "encontro_mensal",
+          "acesso_antecipado",
+          "flores_preciosas",
+          "desconto_proximos_pilares"
+        ],
+        "responde": [
+          "terminei minha primeira peça, e agora?",
+          "o que é o Clube das Autênticas?",
+          "quanto custa o Clube?",
+          "o Clube tem fidelidade?",
+          "o que vem depois do Desafio de 7 Dias?",
+          "o que eu ganho no Clube das Autênticas?",
+          "quais são os benefícios de ser Autêntica VIP?",
+          "tem encontro com a Adriana?"
+        ],
+        "nao_serve_para": [
+          "quero ver a blusa",
+          "que tecido eu compro",
+          "como instalo o app",
+          "quero saber da Trilha das Empreendedoras",
+          "quanto custa o Desafio de 7 Dias",
+          "quanto custa a Trilha das Empreendedoras",
+          "tem desconto?",
+          "tem parcelamento?",
+          "tem foto da peça?",
+          "tem foto da peça pronta?",
+          "tem vídeo da peça?",
+          "como é a Blusa Dupla Face?"
+        ],
+        "fallback_texto": "Depois que você termina a sua primeira peça, o próximo passo é o Clube das Autênticas. Lá você recebe o selo Autêntica VIP e, com ele, um grupo só das VIP, desafios pra continuar praticando, oficinas com conteúdo novo, um encontro mensal comigo, acesso antecipado aos novos pilares antes das outras alunas, as flores preciosas que vão desbloqueando outros benefícios, e 20% de desconto na compra dos próximos pilares. São R$ 67,00 por mês, sem fidelidade, e você cancela quando quiser.",
+        "cuidados_ia": "É link do app, vai como URL no texto, NUNCA como anexo. Só depois da celebração da peça pronta, nunca no mesmo momento. Os benefícios do fallback_texto vêm da fala da Adriana na própria aula (legenda oficial, ver itens[0].transcricao_fonte), não de página de vendas. Os 20% são benefício de quem JÁ é assinante do Clube, para comprar os próximos pilares: não é desconto de negociação e nunca deve ser oferecido para fechar a venda do Desafio ou da Trilha. O R$ 67,00 é do Clube e SÓ do Clube: nunca use este ativo para responder o preço do Desafio ou da Trilha.",
+        "catalogado_em": "2026-09-08",
+        "titulo_no_app": "DIA 7 — O que acontece agora?",
+        "duracao_video": "2:09",
+        "revisar_em": "2026-12-07",
+        "motivo_revisao": "Captura interface de app, data relativa ou página externa: envelhece."
+      }
+    }
+  ],
+  "nota_conteudo": "A partir da 2.3.0 cada ativo carrega o que ele CONTÉM, não só quando usar. `conteudo.assunto` e `conteudo.responde` existem para busca por assunto: é o que permite responder \"quero ver a blusa\" com o ativo certo. `conteudo.fallback_texto` é o que a IA fala quando a mídia não pode ir, e substitui o improviso. `itens[].transcricao` é a fala real, transcrita e com a grafia da marca normalizada; `itens[].texto_na_imagem` é o texto lido na imagem. Áudio e vídeo transcritos em 2026-09-04 com gpt-4o-transcribe; descrições visuais geradas na mesma data.",
+  "contrato_de_busca": {
+    "indexar": [
+      "conteudo.assunto",
+      "conteudo.responde"
+    ],
+    "nunca_indexar": [
+      "itens.transcricao",
+      "itens.texto_na_imagem",
+      "itens.descricao_visual"
+    ],
+    "motivo": "A transcrição e o OCR contêm o nome dos produtos mesmo em ativos que NÃO os apresentam (ex.: a fala do ativo05 cita \"Blusa Dupla Face\" e ele não mostra a peça). Indexar esses campos ressuscita o bug que a 2.3.0 existe para corrigir. Eles são leitura para decisão e para o fallback, nunca chave de busca.",
+    "desempate": "Se mais de um ativo casar, descartar todo ativo cujo nao_serve_para contenha a pergunta. Persistindo empate, vence o de assunto mais específico, e \"quero ver a blusa\" é sempre ativo04.",
+    "regra_da_peca": "Só ativo04 (apresentação da peça em três variações) e ativo06 (fotos de alunas com a peça pronta) mostram a Blusa Dupla Face. Todos os demais declaram veto explícito para pedidos de ver a peça. ativo04 é sempre a primeira escolha."
+  },
+  "contrato_de_envio": {
+    "campo": "itens[].envio",
+    "valores": {
+      "liberado": "pode enviar",
+      "requer_autorizacao": "só enviar com autorizacao_de_imagem = \"confirmada\"; enquanto estiver \"pendente\", usar o fallback_texto",
+      "bloqueado": "nunca enviar e nunca citar o conteúdo"
+    },
+    "aviso": "A regra de usar só o primeiro nome governa o TEXTO que a IA escreve. Ela não anonimiza o arquivo: nome completo e rosto continuam queimados no pixel da imagem enviada."
+  },
+  "respostas_sem_midia": {
+    "nota": "Respostas autorizadas para perguntas que NÃO têm mídia associada. A tool devolve encontrado:false para elas; este texto é o que a IA deve usar, em vez de improvisar.",
+    "garantia": {
+      "objecao": "garantia",
+      "pergunta_tipica": [
+        "e se eu não gostar?",
+        "tem garantia?",
+        "tem reembolso?",
+        "e se não for pra mim, consigo meu dinheiro de volta?",
+        "posso cancelar depois de comprar?",
+        "e se eu me arrepender?"
+      ],
+      "fallback_texto": "Fica tranquila: você tem 7 dias a partir da data da compra para pedir reembolso, e nesse prazo a devolução é de 100% do valor. É só solicitar dentro desses 7 dias. Você não precisa decidir tudo agora com medo de errar: dá pra entrar, ver por dentro e ter certeza.",
+      "cuidados_ia": "Prazo é 7 dias corridos a partir da DATA DA COMPRA, não da data do primeiro acesso. Reembolso é de 100% do valor. Não prometa prazo de estorno, não invente etapa de processo e não negocie exceção fora dos 7 dias. Pedido de reembolso já em curso NÃO é objeção de venda: é transferência para humano (send_flow). Esta política vale para os produtos vendidos por este agente.",
+      "fonte": "política informada pelo cliente em 2026-09-08",
+      "aplica_a": [
+        "Desafio de 7 Dias da Blusa Dupla Face",
+        "Trilha das Empreendedoras",
+        "Clube das Autênticas"
       ]
     }
+  },
+  "integridade": {
+    "commit_das_midias": "8a37f868809cbe9f5fb76246d23f74db1ca2e743",
+    "lido_em": "2026-09-08",
+    "politica": "As URLs de mídia são fixadas no commit para que os bytes descritos em transcricao, texto_na_imagem e descricao_visual não possam mudar sem que o catálogo mude junto. O catálogo em si continua sendo lido em @main pelo backend, para poder ser atualizado sem deploy. Ao trocar ou adicionar mídia: commit no repo, atualizar commit_das_midias e o sha256 do item, e purgar o cache do jsDelivr.",
+    "url_movel": "itens[].url_movel guarda a URL @main equivalente, para diagnóstico. Nunca envie url_movel à cliente: envie itens[].url.",
+    "legendas_lms": {
+      "fonte": "Bunny Stream, library 620868, faixa pt.vtt",
+      "lido_em": "2026-09-08",
+      "nota": "As aulas do app não estão no repo de mídias: são vídeos hospedados no player do LMS. A transcrição delas vem da legenda oficial da plataforma, baixada com o Referer do domínio, e por isso não tem sha256 nem commit fixado como as mídias do CDN."
+    }
+  },
+  "objecoes_sem_midia": [
+    "pouco_dinheiro",
+    "pouco_tempo",
+    "nao_criativa",
+    "nao_sei_modelagem",
+    "nunca_termina",
+    "nao_sabe_vender",
+    "casa_pequena",
+    "garantia"
   ]
 }
