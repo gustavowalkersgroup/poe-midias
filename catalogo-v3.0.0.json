@@ -375,7 +375,7 @@
       "agente": ["vendas"],
       "quando_usar": "Cliente no Pilar fala em vender/empreender, mas ainda não está em intenção clara de Trilha.",
       "disponivel": true,
-      "itens": [{"arquivo": "video/VIDEO_ADRIANA_PRODUTO_CERTO_ANTES_DA_VENDA.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@1cbe97a2887fd0f462d3b0b46f67fcb4097198b8/video/VIDEO_ADRIANA_PRODUTO_CERTO_ANTES_DA_VENDA.mp4", "envio": "liberado"}],
+      "itens": [{"arquivo": "video/VIDEO_ADRIANA_PRODUTO_CERTO_ANTES_DA_VENDA.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@4c34f8b4fcbfdb368c12d05465fa6e950f7c2d8d/video/VIDEO_ADRIANA_PRODUTO_CERTO_ANTES_DA_VENDA.mp4", "envio": "liberado"}],
       "conteudo": {
         "resumo": "Conecta o sonho de renda à importância de aprender primeiro um produto validado e executável.",
         "assunto": ["ponte_pilar_trilha"],
@@ -530,7 +530,7 @@
       "agente": ["vendas"],
       "quando_usar": "\"Como funciona?\", tempo, organização, medo de não acompanhar.",
       "disponivel": true,
-      "itens": [{"arquivo": "video/VIDEO_PILAR_1_DIA_0_AO_DIA_7.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@1cbe97a2887fd0f462d3b0b46f67fcb4097198b8/video/VIDEO_PILAR_1_DIA_0_AO_DIA_7.mp4", "envio": "liberado"}],
+      "itens": [{"arquivo": "video/VIDEO_PILAR_1_DIA_0_AO_DIA_7.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@4c34f8b4fcbfdb368c12d05465fa6e950f7c2d8d/video/VIDEO_PILAR_1_DIA_0_AO_DIA_7.mp4", "envio": "liberado"}],
       "conteudo": {
         "resumo": "Mostra visualmente a organização da jornada Dia 0-7 e torna o curso concreto.",
         "assunto": ["como_funciona", "nunca_costurei", "organizacao"],
@@ -686,7 +686,7 @@
       "agente": ["vendas"],
       "quando_usar": "Medo de começar, vergonha, insegurança, \"não vou conseguir\".",
       "disponivel": true,
-      "itens": [{"arquivo": "video/DEPOIMENTO_VIDEO_ALUNAS_MEDO_INSEGURANCA.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@1cbe97a2887fd0f462d3b0b46f67fcb4097198b8/video/DEPOIMENTO_VIDEO_ALUNAS_MEDO_INSEGURANCA.mp4", "envio": "liberado"}],
+      "itens": [{"arquivo": "video/DEPOIMENTO_VIDEO_ALUNAS_MEDO_INSEGURANCA.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@4c34f8b4fcbfdb368c12d05465fa6e950f7c2d8d/video/DEPOIMENTO_VIDEO_ALUNAS_MEDO_INSEGURANCA.mp4", "envio": "liberado"}],
       "conteudo": {
         "resumo": "Permite que a cliente se veja em outra mulher real.",
         "assunto": ["depoimento", "medo_de_comecar"],
@@ -708,7 +708,7 @@
       "quando_usar": "Medo, insegurança, capacidade, acabamento, satisfação.",
       "disponivel": true,
       "itens": [
-        {"arquivo": "video/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@1cbe97a2887fd0f462d3b0b46f67fcb4097198b8/video/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS.mp4", "envio": "liberado"},
+        {"arquivo": "video/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS.mp4", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@4c34f8b4fcbfdb368c12d05465fa6e950f7c2d8d/video/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS.mp4", "envio": "liberado"},
         {"arquivo": "imagem/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS_1.jpeg", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@1cbe97a2887fd0f462d3b0b46f67fcb4097198b8/imagem/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS_1.jpeg", "envio": "liberado"},
         {"arquivo": "imagem/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS_2.jpeg", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@1cbe97a2887fd0f462d3b0b46f67fcb4097198b8/imagem/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS_2.jpeg", "envio": "liberado"},
         {"arquivo": "imagem/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS_3.jpeg", "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@1cbe97a2887fd0f462d3b0b46f67fcb4097198b8/imagem/PROVA_PRINTS_DEPOIMENTOS_ESPONTANEOS_3.jpeg", "envio": "liberado"},
