@@ -26,14 +26,18 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/ativo01-audio-mae-boas-vindas.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo01-audio-mae-boas-vindas.ogg",
-          "bytes": 60511,
-          "duracao_s": 24.0,
+          "arquivo": "audio/ativo01-audio-mae-boas-vindas.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo01-audio-mae-boas-vindas.m4a",
+          "bytes": 298719,
+          "duracao_s": 23.97,
           "transcricao": "E aí Autêntica! Adriana PÓE aqui! Prazer imenso falar contigo, que bom, que bom de verdade que você tá aqui, eu tô muito feliz. Menina, vamos conversar? Me conta um pouquinho de você, qual é a sua história com a costura? Me fala, por enquanto é só um sonho ou você já sabe um pouquinho e tá querendo aprender mais? Me conta.",
           "envio": "liberado",
-          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo01-audio-mae-boas-vindas.ogg",
-          "sha256": "abcc8f0c290fde4e3d03b43197968246667ce7de0c4e7bf99873459f31f986b2"
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo01-audio-mae-boas-vindas.m4a",
+          "sha256": "abcc8f0c290fde4e3d03b43197968246667ce7de0c4e7bf99873459f31f986b2",
+          "mb": 0.285,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -87,14 +91,18 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/ativo02-carrinho-abandonado.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo02-carrinho-abandonado.ogg",
-          "bytes": 81753,
-          "duracao_s": 31.9,
+          "arquivo": "audio/ativo02-carrinho-abandonado.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo02-carrinho-abandonado.m4a",
+          "bytes": 397737,
+          "duracao_s": 31.93,
           "transcricao": "Real, Autêntica, passei rapidinho porque eu vi que você quase entrou no Desafio de 7 Dias e acabou ali não entrando no final. Mas tá tudo bem. Às vezes surge uma dúvida, às vezes a vida acontece. Enfim, eu só vim aqui realmente porque eu queria saber se ficou alguma dúvida, alguma pergunta, se eu posso te ajudar em alguma coisa. Eu quero muito, muito, muito te ajudar a desbloquear a costureira que existe dentro de você. E eu tô aqui pra te ajudar. Então, pode falar.",
           "envio": "liberado",
-          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo02-carrinho-abandonado.ogg",
-          "sha256": "84044a2ea55cebec0d5d14eaba5d571ced97345d843fc0509fb7b3b76ed004de"
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo02-carrinho-abandonado.m4a",
+          "sha256": "84044a2ea55cebec0d5d14eaba5d571ced97345d843fc0509fb7b3b76ed004de",
+          "mb": 0.379,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -145,14 +153,18 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/ativo03-trajetoria-adriana.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo03-trajetoria-adriana.ogg",
-          "bytes": 525062,
-          "duracao_s": 213.1,
+          "arquivo": "audio/ativo03-trajetoria-adriana.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo03-trajetoria-adriana.m4a",
+          "bytes": 2649324,
+          "duracao_s": 213.13,
           "transcricao": "Vamos lá, quero dividir um pedacinho da minha história com você, bem rápido. Eu sempre fui apaixonada pela costura, por moda, por criar. E eu comecei a costurar com 15 anos, bem novinha. Foi justamente essa paixão que me levou a escolher faculdade de design de moda, estudar para ser estilista. E lá na faculdade foi tão incrível. Eu vivi tantas experiências que eu nunca imaginei. Durante a faculdade, eu ganhei um concurso e fui representar o Brasil na China por conta da costura. Trabalhei com grandes nomes da moda, do São Paulo Fashion Week, durante muito tempo. E quando eu finalizei, eu achei que o meu grande sonho era fazer vestidos de festa e noiva. E eu fiz, foi uma realização incrível, eu fiz por muitos anos, inclusive. Mas no meio desse processo, eu criei a PÓE Moda Ajustável. E a PÓE foi sem dúvida o grande sonho realizado da minha carreira até aqui. Foi através dela que as minhas criações chegaram a mulheres de vários lugares do mundo. E mesmo depois que a marca encerrou sua história, só de pensar no legado que ela deixou, meu coração fica quentinho, cheio de gratidão. Foram mais de 30 mil peças criadas e vendidas. E saber que muitas dessas ainda estão por aí, sendo usadas, amadas, fazendo parte do guarda-roupa e da história de tantas mulheres, é muito emocionante. Esse sonho eu vivi intensamente. Mas sabe o que é muito curioso? Mesmo vivendo tudo isso, eu percebi, em algum momento, que o que realmente mais enchia o meu coração nunca foi realmente vender as roupas. O que mais me emocionava era ver uma mulher se olhar no espelho e voltar a se sentir bonita, se sentir vista, abraçada, valorizada, independente do biotipo que ela tinha. E foi nesse caminho que Deus começou a direcionar o meu coração para um propósito ainda maior. Eu senti que estava chegando a hora de fazer uma escolha realmente muito difícil. Abrir mão de todo aquele sucesso, daquele sonho realizado, de uma marca que tinha dado muito certo, para obedecer a um propósito que estava queimando dentro de mim. E esse propósito, na verdade, era ensinar. Ensinar outras mulheres a descobrirem que elas também são capazes de criar. Porque existe uma emoção que é muito difícil até de colocar em palavras. É quando você faz uma peça com as próprias mãos e vê alguém sorrindo ao vestir aquilo que você criou. Quando você percebe que o seu trabalho levantou a autoestima de outra mulher, que ela voltou a se sentir bonita, confiante, isso não tem preço. Então eu pensei, e se milhares de mulheres também pudessem viver essa mesma emoção? Foi exatamente aí que nasceu o Método PÓE. Tudo o que eu ensino hoje nasceu dessa caminhada. Não é teoria, é a minha experiência de muitos anos, criando, errando, acertando, aprendendo e acreditando que toda mulher é capaz de criar muito mais do que ela imagina. E é por isso que eu acredito tanto em você. Porque se esse sonho chegou até o seu coração, talvez ele também seja o começo de uma história muito bonita.",
           "envio": "liberado",
-          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo03-trajetoria-adriana.ogg",
-          "sha256": "8de56c473a25e879e6cbc72d87e3c11c4ee3cf598714d6c1895a3dd7934ac36a"
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo03-trajetoria-adriana.m4a",
+          "sha256": "8de56c473a25e879e6cbc72d87e3c11c4ee3cf598714d6c1895a3dd7934ac36a",
+          "mb": 2.527,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -801,14 +813,18 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/ativo12-pos-venda-boas-vindas.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo12-pos-venda-boas-vindas.ogg",
-          "bytes": 122180,
-          "duracao_s": 48.8,
+          "arquivo": "audio/ativo12-pos-venda-boas-vindas.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@8a37f868809cbe9f5fb76246d23f74db1ca2e743/audio/ativo12-pos-venda-boas-vindas.m4a",
+          "bytes": 608104,
+          "duracao_s": 48.79,
           "transcricao": "Viva! Seja muito bem-vinda oficialmente à Escalada da Costura e ao Método PÓE! E eu tô muito feliz por ter você aqui e por fazer parte desse novo capítulo da sua vida. Pode ter certeza de uma coisa, sua primeira Blusa PÓE vai ser só o começo. Eu acredito que ela marca o início de uma nova história que pode crescer muito, evoluir e levar você ainda mais longe do que você imagina. E agora a gente tá juntas pra valer. Eu vou comemorar com você cada conquista, cada aprendizado e principalmente a sua primeira vitória, a primeira Blusa PÓE. Então, novamente, seja bem-vinda e vamos viver essa escalada juntas. Vai ser uma alegria caminhar ao seu lado.",
           "envio": "liberado",
-          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo12-pos-venda-boas-vindas.ogg",
-          "sha256": "db866ba5467c617e3826238f6d513b97a4668301381cb615d04aabfed1d767f9"
+          "url_movel": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ativo12-pos-venda-boas-vindas.m4a",
+          "sha256": "db866ba5467c617e3826238f6d513b97a4668301381cb615d04aabfed1d767f9",
+          "mb": 0.58,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {

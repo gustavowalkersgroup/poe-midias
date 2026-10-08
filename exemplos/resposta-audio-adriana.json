@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "message": {
+        "text": "A Adriana é a criadora da PÓE e do Método PÓE. Ela trabalhou por mais de dez anos desenvolvendo e produzindo roupas antes de levar essa experiência para o ensino da costura. Nesse áudio, ela conta a própria história 💛👇"
+      }
+    },
+    4,
+    {
+      "message": {
+        "attachment": {
+          "type": "audio",
+          "payload": {
+            "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ADRIANA_ORIGEM_METODO_TRAJETORIA_POE.m4a"
+          }
+        }
+      }
+    },
+    4,
+    {
+      "message": {
+        "text": "O que você achou da história dela?"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "action": "set_field_value",
+      "field_name": "midias_enviadas_vendas",
+      "value": "VIDEO_ESCALADA_7_PILARES,VIDEO_BLUSA_DUPLA_FACE_RESULTADO_DOIS_LADOS,VIDEO_PILAR_1_DIA_0_AO_DIA_7,ADRIANA_ORIGEM_METODO_TRAJETORIA_POE"
+    }
+  ]
+}

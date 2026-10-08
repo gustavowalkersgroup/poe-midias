@@ -28,9 +28,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_BOAS_VINDAS_INICIAL_HISTORIA_COSTURA.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_BOAS_VINDAS_INICIAL_HISTORIA_COSTURA.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_BOAS_VINDAS_INICIAL_HISTORIA_COSTURA.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_BOAS_VINDAS_INICIAL_HISTORIA_COSTURA.m4a",
+          "envio": "liberado",
+          "bytes": 298719,
+          "mb": 0.285,
+          "duracao_s": 23.97,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -72,9 +78,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_CARRINHO_ABANDONADO_SEM_COBRANCA.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_CARRINHO_ABANDONADO_SEM_COBRANCA.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_CARRINHO_ABANDONADO_SEM_COBRANCA.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_CARRINHO_ABANDONADO_SEM_COBRANCA.m4a",
+          "envio": "liberado",
+          "bytes": 387643,
+          "mb": 0.37,
+          "duracao_s": 31.07,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -105,9 +117,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_BOAS_VINDAS_POS_COMPRA_PILAR_1.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_BOAS_VINDAS_POS_COMPRA_PILAR_1.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_BOAS_VINDAS_POS_COMPRA_PILAR_1.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_BOAS_VINDAS_POS_COMPRA_PILAR_1.m4a",
+          "envio": "liberado",
+          "bytes": 608104,
+          "mb": 0.58,
+          "duracao_s": 48.79,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -139,9 +157,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_BOAS_VINDAS_TRILHA.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_BOAS_VINDAS_TRILHA.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_BOAS_VINDAS_TRILHA.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_BOAS_VINDAS_TRILHA.m4a",
+          "envio": "liberado",
+          "bytes": 657235,
+          "mb": 0.627,
+          "duracao_s": 52.69,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -175,9 +199,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/ADRIANA_ORIGEM_METODO_TRAJETORIA_POE.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ADRIANA_ORIGEM_METODO_TRAJETORIA_POE.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/ADRIANA_ORIGEM_METODO_TRAJETORIA_POE.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/ADRIANA_ORIGEM_METODO_TRAJETORIA_POE.m4a",
+          "envio": "liberado",
+          "bytes": 2649324,
+          "mb": 2.527,
+          "duracao_s": 213.13,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -214,9 +244,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_ORIGEM_METODO_AUTORIDADE.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_ORIGEM_METODO_AUTORIDADE.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_ORIGEM_METODO_AUTORIDADE.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_ORIGEM_METODO_AUTORIDADE.m4a",
+          "envio": "liberado",
+          "bytes": 747064,
+          "mb": 0.712,
+          "duracao_s": 59.89,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -252,9 +288,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_COMECAR_DO_ZERO_PRIMEIRA_VITORIA.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_COMECAR_DO_ZERO_PRIMEIRA_VITORIA.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_COMECAR_DO_ZERO_PRIMEIRA_VITORIA.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_COMECAR_DO_ZERO_PRIMEIRA_VITORIA.m4a",
+          "envio": "liberado",
+          "bytes": 601589,
+          "mb": 0.574,
+          "duracao_s": 48.13,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -294,9 +336,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_EXPERIENTE_LOGICA_POE.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_EXPERIENTE_LOGICA_POE.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_EXPERIENTE_LOGICA_POE.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_EXPERIENTE_LOGICA_POE.m4a",
+          "envio": "liberado",
+          "bytes": 944896,
+          "mb": 0.901,
+          "duracao_s": 75.99,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -335,9 +383,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_PRIMEIRO_DEGRAU_ESCALADA.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_PRIMEIRO_DEGRAU_ESCALADA.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_PRIMEIRO_DEGRAU_ESCALADA.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_PRIMEIRO_DEGRAU_ESCALADA.m4a",
+          "envio": "liberado",
+          "bytes": 698876,
+          "mb": 0.667,
+          "duracao_s": 56.19,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -373,9 +427,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_CONVITE_FINAL_PILAR_1.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_CONVITE_FINAL_PILAR_1.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_CONVITE_FINAL_PILAR_1.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_CONVITE_FINAL_PILAR_1.m4a",
+          "envio": "liberado",
+          "bytes": 575119,
+          "mb": 0.548,
+          "duracao_s": 46.45,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -408,9 +468,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_BONUS_CLUBE_NEGOCIO_E_TECNICA.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_BONUS_CLUBE_NEGOCIO_E_TECNICA.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_BONUS_CLUBE_NEGOCIO_E_TECNICA.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_BONUS_CLUBE_NEGOCIO_E_TECNICA.m4a",
+          "envio": "liberado",
+          "bytes": 524624,
+          "mb": 0.5,
+          "duracao_s": 42.17,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -447,9 +513,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_UMA_ETAPA_POR_MES.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_UMA_ETAPA_POR_MES.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_UMA_ETAPA_POR_MES.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_UMA_ETAPA_POR_MES.m4a",
+          "envio": "liberado",
+          "bytes": 611619,
+          "mb": 0.583,
+          "duracao_s": 49.31,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -486,9 +558,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_ENCONTRO_AO_VIVO_CORACAO_TRILHA.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_ENCONTRO_AO_VIVO_CORACAO_TRILHA.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_ENCONTRO_AO_VIVO_CORACAO_TRILHA.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_ENCONTRO_AO_VIVO_CORACAO_TRILHA.m4a",
+          "envio": "liberado",
+          "bytes": 758520,
+          "mb": 0.723,
+          "duracao_s": 61.11,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -525,9 +603,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_PARA_QUEM_E.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_PARA_QUEM_E.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_PARA_QUEM_E.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_PARA_QUEM_E.m4a",
+          "envio": "liberado",
+          "bytes": 1059545,
+          "mb": 1.01,
+          "duracao_s": 85.11,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -564,9 +648,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_CONHECIMENTO_NAO_MAIS_HORAS.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_CONHECIMENTO_NAO_MAIS_HORAS.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_CONHECIMENTO_NAO_MAIS_HORAS.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_CONHECIMENTO_NAO_MAIS_HORAS.m4a",
+          "envio": "liberado",
+          "bytes": 829745,
+          "mb": 0.791,
+          "duracao_s": 66.59,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
@@ -602,9 +692,15 @@
       "disponivel": true,
       "itens": [
         {
-          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_PRIMEIRO_MES_SEM_FIDELIDADE.ogg",
-          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_PRIMEIRO_MES_SEM_FIDELIDADE.ogg",
-          "envio": "liberado"
+          "arquivo": "audio/AUDIO_ADRIANA_TRILHA_PRIMEIRO_MES_SEM_FIDELIDADE.m4a",
+          "url": "https://cdn.jsdelivr.net/gh/gustavowalkersgroup/poe-midias@main/audio/AUDIO_ADRIANA_TRILHA_PRIMEIRO_MES_SEM_FIDELIDADE.m4a",
+          "envio": "liberado",
+          "bytes": 804758,
+          "mb": 0.767,
+          "duracao_s": 64.91,
+          "mime_type": "audio/mp4",
+          "codec": "aac",
+          "excede_limite_whatsapp": false
         }
       ],
       "conteudo": {
